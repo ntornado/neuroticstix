@@ -1,4 +1,11 @@
+6~C~stix_computer~0~do the~work~~~~
+6~M~stix_unicorn_head~0~trust~your ideas~
+6~M~stix_normal~6~the plan~can change~
+6~M~stix_normal~4~begin the~journey...~
+6~B~stix_book~0~make~it~happen~~~
+6~B~stix_scroll~0~today~is the~day~~~
+6~M~stix_rabbit~0~make some~magic~
+6~X~stix_shirt~0~you're~doing~fine~~~
 6~X~stix_shirt~0~love~is~love~~~
 6~R~Heart~0~
-6~R~Happy~0~
 6~M~stix_kitty~0~it's all~good~
