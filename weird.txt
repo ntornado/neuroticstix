@@ -1,1 +1,6 @@
-
+6~M~stix_rabbit~0~productivity~rabbit~
+6~S~stix_blank~0~invisible~
+6~B~stix_book~0~The secret~to life is~%]#]#{}%^~~~
+6~C~stix_computer~0~get off~the device~~~~
+6~B~stix_book~0~I took the~blue AND the~red pills...~~~
+6~X~stix_black_shirt~0~I'm ~the~weirdo~~~
