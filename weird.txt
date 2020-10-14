@@ -1,6 +1,14 @@
+6~B~stix_scroll~0~scrolls~are for~trolls~~~
+6~M~stix_tornado~0~neurotic~tornado~
+6~M~stix_cars~0~I love~traffic~
+6~M~stix_unicorn_head~0~magic~isn't real~
+6~M~stix_robot~0~some days~are so 10101~
+6~Q~stix_schnauzer~0~meow~
+6~M~stix_kitty~0~stop staring~at me!~
+6~M~stix_heart~0~nonsense~makes sense~
 6~M~stix_rabbit~0~productivity~rabbit~
-6~S~stix_blank~0~invisible~
+6~M~stix_blank~0~I am not~invisible~
 6~B~stix_book~0~The secret~to life is~%]#]#{}%^~~~
-6~C~stix_computer~0~get off~the device~~~~
-6~B~stix_book~0~I took the~blue AND the~red pills...~~~
+6~C~stix_computer~0~get off~your~device!~~~
+6~B~stix_book~0~this~is not~a book~~~
 6~X~stix_black_shirt~0~I'm ~the~weirdo~~~
