@@ -1,3 +1,9 @@
+6~M~stix_dog~0~what did~you expect?~
+6~L~stix_kitty~0~striking for~better sleep~conditions~
+6~M~stix_dog~0~bark~atcha~
+6~Q~stix_bed~0~Napping~
+6~M~stix_kitty~0~kibble~substandard~
+6~X~stix_shirt~0~don't~dress~up~~~
 6~M~stix_alien~0~humans~are strange~
 6~B~stix_scroll~0~scrolls~are for~trolls~~~
 6~M~stix_tornado~0~neurotic~tornado~

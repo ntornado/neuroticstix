@@ -1,3 +1,10 @@
+6~M~stix_fetal~0~it's going~great!~
+6~X~stix_shirt~0~it's~my~fault~~~
+6~B~stix_black_book~0~I'm~Sorry~-a memoir-~~~
+6~C~stix_computer~0~game over.~thanks for~playing.~~~
+6~M~stix_desk~0~home~schooling~
+6~M~stix_desk~0~away from~keyboard~
+6~M~stix_tornado~0~life feels~like this~
 6~L~stix_robot~0~democracy~needs some~debugging~
 6~M~stix_desk~0~duck & cover~for the win~
 6~M~stix_toilet~0~is it~over yet?~
