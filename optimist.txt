@@ -1,5 +1,14 @@
+6~S~stix_alien~0~make it so~
+6~M~stix_bike~0~keep~moving~
+6~M~stix_bike~0~the courage~to continue~
+6~C~stix_computer~0~prove~them~wrong~~~
+6~M~stix_people~4~stay~foolish~
+6~B~stix_book~0~dwell in~the beauty~of life~~~
+6~S~stix_unicorn_head~0~dream it~
+6~Q~stix_heart~0~heart~
+6~C~stix_computer~0~there is~no secret~to life ~~~
 6~X~stix_black_shirt~0~❤️~💜~🧡~~~
-6~X~stix_black_shirt~0~I~can~~~~
+6~X~stix_black_shirt~0~create~more~things~~~
 6~M~stix_bike~0~enjoy the~scenery~
 6~L~stix_toilet~0~good things~come to those~who wait...~
 6~M~stix_heart~5~it's worth~the effort~
