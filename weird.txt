@@ -1,30 +1,40 @@
-6~M~stix_upsidedown~0~why am I~dizzy?~
-6~M~stix_schnauzer~0~here comes~trouble~
-6~B~stix_black_book~0~Great~Truths~~~~
-6~X~stix_black_shirt~0~I~hate~shirts~~~
-6~M~stix_oops~0~what did~I do wrong?~
-6~M~stix_people~0~I didn't~do it~
-6~M~stix_zombie~0~broccoli~day~
-6~M~stix_vr~0~VR beats IRL~every time~
-6~S~stix_tornado~0~avenge me!~
-6~M~stix_dog~0~what did~you expect?~
-6~L~stix_kitty~0~striking for~better sleep~conditions~
-6~M~stix_dog~0~bark~atcha~
-6~Q~stix_bed~0~Napping~
-6~M~stix_kitty~0~kibble~substandard~
-6~X~stix_shirt~0~don't~dress~up~~~
-6~M~stix_alien~0~humans~are strange~
-6~B~stix_scroll~0~scrolls~are for~trolls~~~
-6~M~stix_tornado~0~neurotic~tornado~
-6~M~stix_cars~0~I love~traffic~
-6~M~stix_unicorn_head~0~magic~isn't real~
-6~M~stix_robot~0~some days~are so 10101~
-6~Q~stix_schnauzer~0~meow~
-6~M~stix_kitty~0~stop staring~at me!~
-6~M~stix_heart~0~nonsense~makes sense~
-6~M~stix_rabbit~0~productivity~rabbit~
-6~M~stix_blank~0~I am not~invisible~
-6~B~stix_book~0~The secret~to life is~%]#]#{}%^~~~
-6~C~stix_computer~0~get off~your~device!~~~
-6~B~stix_book~0~this~is not~a book~~~
-6~X~stix_black_shirt~0~I'm ~the~weirdo~~~
+6~M~stix_toilet~0~now my legs~are numb~
+6~M~stix_blank~0~Today I feel~invisible~
+6~Q~stix_mask~0~Cough~
+6~Q~stix_normal~2~Oy~
+6~C~stix_computer~0~404 Error~Not Found~Oopsy~~~
+6~S~stix_cars~0~out of gas~
+6~M~stix_tornado~0~stop~staring~
+6~M~stix_bed~0~one more~snooze~
+6~M~stix_robot~0~humans~smell weird~
+6~C~stix_computer~0~\    /~*~/----\~~~
+6~M~stix_rabbit~0~it's safer~in here~
+6~C~stix_computer~0~does~not~compute~~~
+6~M~stix_fetal~0~my natural~position~
+6~M~stix_bed~0~stuck in~bed today~
+6~B~stix_book~0~The Book~of My~Failures~~~
+6~M~stix_upsidedown~0~today is~upside down~
+6~M~stix_sad~0~I just cut~some onions~
+6~C~stix_computer~0~democracy~needs some~debugging~~~
+6~M~stix_fetal~0~it's going~great!~
+6~X~stix_shirt~0~it's~my~fault~~~
+6~B~stix_black_book~0~I'm~Sorry~-a memoir-~~~
+6~C~stix_computer~0~game over.~thanks for~playing.~~~
+6~M~stix_desk~0~home~schooling~
+6~M~stix_desk~0~away from~keyboard~
+6~M~stix_tornado~0~life feels~like this~
+6~M~stix_robot~0~humans...~am I right?~
+6~M~stix_desk~0~duck & cover~for the win~
+6~M~stix_toilet~0~is it~over yet?~
+6~M~stix_tornado~0~things are~totally fine~
+6~X~stix_black_shirt~0~what~a~week~~~
+6~M~stix_schnauzer~0~people are~so bizarre~
+6~M~stix_upsidedown~0~I'm not~worried...~
+6~Q~stix_desk~0~courage~
+6~B~stix_scroll~0~we've got~more work~to do!~~~
+6~R~Sad~0~
+6~B~stix_book~0~there~is no~-------~bottom~~
+6~M~stix_kitty~0~humans~screwed up~
+6~R~Fetal~0~
+6~M~stix_cars~0~get me off~this earth~
+6~M~stix_toilet~0~safe~haven~

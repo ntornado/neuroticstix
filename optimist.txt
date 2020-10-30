@@ -1,3 +1,13 @@
+6~M~stix_blank~0~imagine~it~
+6~B~stix_scroll~0~I will try~something~new today~~~
+6~B~stix_book~0~what's~your~mantra?~~~
+6~M~stix_heart~6~I like~nice people~
+6~M~stix_cars~0~what's your~fav podcast?~
+6~M~stix_normal~6~I can do~this today~
+6~B~stix_black_book~0~Read~a~Book~~~
+6~M~stix_robot~0~humans~are cute~
+6~L~stix_heart~6~I get by with~a little help~from my friends~
+6~C~stix_computer~0~-   *~*~\_____/~~~
 6~S~stix_alien~0~make it so~
 6~M~stix_bike~0~keep~moving~
 6~M~stix_bike~0~the courage~to continue~
@@ -5,7 +15,7 @@
 6~M~stix_people~4~stay~foolish~
 6~B~stix_book~0~dwell in~the beauty~of life~~~
 6~S~stix_unicorn_head~0~dream it~
-6~Q~stix_heart~0~heart~
+6~Q~stix_heart~6~heart~
 6~C~stix_computer~0~there is~no secret~to life ~~~
 6~X~stix_black_shirt~0~❤️~💜~🧡~~~
 6~X~stix_black_shirt~0~create~more~things~~~
