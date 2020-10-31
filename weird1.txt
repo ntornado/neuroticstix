@@ -1,29 +1,19 @@
-6~M~stix_upsidedown~0~why am I~dizzy?~
 6~M~stix_schnauzer~0~here comes~trouble~
 6~B~stix_black_book~0~Great~Truths~~~~
 6~X~stix_black_shirt~0~I~hate~shirts~~~
 6~M~stix_oops~0~what did~I do wrong?~
 6~M~stix_people~0~I didn't~do it~
 6~M~stix_zombie~0~broccoli~day~
-6~M~stix_vr~0~VR beats IRL~every time~
 6~S~stix_tornado~0~avenge me!~
 6~M~stix_dog~0~what did~you expect?~
-6~L~stix_kitty~0~striking for~better sleep~conditions~
 6~M~stix_dog~0~bark~atcha~
-6~Q~stix_bed~0~Napping~
 6~M~stix_kitty~0~kibble~substandard~
 6~X~stix_shirt~0~don't~dress~up~~~
 6~M~stix_alien~0~humans~are strange~
-6~B~stix_scroll~0~scrolls~are for~trolls~~~
 6~M~stix_tornado~0~neurotic~tornado~
-6~M~stix_cars~0~I love~traffic~
-6~M~stix_unicorn_head~0~magic~isn't real~
 6~M~stix_robot~0~some days~are so 10101~
 6~Q~stix_schnauzer~0~meow~
-6~M~stix_kitty~0~stop staring~at me!~
-6~M~stix_heart~0~nonsense~makes sense~
 6~M~stix_rabbit~0~productivity~rabbit~
-6~M~stix_blank~0~I am not~invisible~
 6~B~stix_book~0~The secret~to life is~%]#]#{}%^~~~
 6~C~stix_computer~0~get off~your~device!~~~
 6~B~stix_book~0~this~is not~a book~~~

@@ -1,1 +1,12 @@
+6~M~stix_toilet~0~I'm quite~busy~
+6~M~stix_robot~0~don't rely~on machines~
 6~R~Stink~0~
+6~C~stix_computer~0~404 Error~Not Found~Oopsy...~~~
+6~M~stix_tornado~0~life feels~like this~
+6~M~stix_rabbit~0~it's safer~in here~
+6~M~stix_desk~0~home~schooling~
+6~M~stix_upsidedown~0~today is~upside down~
+6~Q~stix_normal~2~Oy~
+6~Q~stix_mask~0~Cough~
+6~M~stix_sad~0~I just cut~some onions~
+6~M~stix_toilet~0~safe~haven~
