@@ -7,3 +7,4 @@
 6~M~stix_schnauzer~0~eat the~roses~
 6~M~stix_kitty~0~stop staring~at me!~
 6~M~stix_blank~0~I am not~invisible~
+6~M~stix_toilet~0~safe~haven~

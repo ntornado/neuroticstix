@@ -9,4 +9,3 @@
 6~Q~stix_normal~2~Oy~
 6~Q~stix_mask~0~Cough~
 6~M~stix_sad~0~I just cut~some onions~
-6~M~stix_toilet~0~safe~haven~
