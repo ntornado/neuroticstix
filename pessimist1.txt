@@ -28,13 +28,3 @@
 6~M~stix_toilet~0~is it~over yet?~
 6~M~stix_tornado~0~things are~totally fine~
 6~X~stix_black_shirt~0~what~a~week~~~
-6~M~stix_schnauzer~0~people are~so bizarre~
-6~M~stix_upsidedown~0~I'm not~worried...~
-6~Q~stix_desk~0~courage~
-6~B~stix_scroll~0~we've got~more work~to do!~~~
-6~R~Sad~0~
-6~B~stix_book~0~there~is no~-------~bottom~~
-6~M~stix_kitty~0~humans~screwed up~
-6~R~Fetal~0~
-6~M~stix_cars~0~get me off~this earth~
-6~M~stix_toilet~0~safe~haven~
