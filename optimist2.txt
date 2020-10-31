@@ -1,0 +1,40 @@
+6~M~stix_blank~0~imagine~it~
+6~B~stix_scroll~0~I will try~something~new today~~~
+6~B~stix_book~0~what's~your~mantra?~~~
+6~M~stix_heart~6~I like~nice people~
+6~M~stix_cars~0~what's your~fav podcast?~
+6~M~stix_normal~6~I can do~this today~
+6~B~stix_black_book~0~Read~a~Book~~~
+6~M~stix_robot~0~humans~are cute~
+6~L~stix_heart~6~I get by with~a little help~from my friends~
+6~C~stix_computer~0~-   *~*~\_____/~~~
+6~S~stix_alien~0~make it so~
+6~M~stix_bike~0~keep~moving~
+6~M~stix_bike~0~the courage~to continue~
+6~C~stix_computer~0~prove~them~wrong~~~
+6~M~stix_people~4~stay~foolish~
+6~B~stix_book~0~dwell in~the beauty~of life~~~
+6~S~stix_unicorn_head~0~dream it~
+6~Q~stix_heart~6~heart~
+6~C~stix_computer~0~there is~no secret~to life ~~~
+6~X~stix_black_shirt~0~❤️~💜~🧡~~~
+6~X~stix_black_shirt~0~create~more~things~~~
+6~M~stix_bike~0~enjoy the~scenery~
+6~L~stix_toilet~0~good things~come to those~who wait...~
+6~M~stix_heart~5~it's worth~the effort~
+6~M~stix_unicorn_head~0~I believe~in you~
+6~M~stix_tornado~0~I can learn~from this...~
+6~C~stix_computer~0~find~stillness,~then begin~~~
+6~M~stix_bed~0~appreciate~today~
+6~M~stix_schnauzer~0~I appreciate~who you are~
+6~C~stix_computer~0~do the~work~~~~
+6~M~stix_unicorn_head~0~trust~your ideas~
+6~M~stix_normal~6~the plan~can change~
+6~M~stix_normal~4~begin the~journey...~
+6~B~stix_book~0~make~it~happen~~~
+6~B~stix_scroll~0~today~is the~day~~~
+6~M~stix_rabbit~0~make some~magic~
+6~X~stix_shirt~0~you're~doing~fine~~~
+6~X~stix_shirt~0~love~is~love~~~
+6~R~Heart~0~
+6~M~stix_kitty~0~it's all~good~
