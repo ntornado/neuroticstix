@@ -17,4 +17,4 @@
 6~M~stix_desk~0~duck & cover~for the win~
 6~M~stix_toilet~0~is it~over yet?~
 6~M~stix_tornado~0~things are~totally fine~
-6~X~stix_black_shirt~0~what~a~week~~~
+6~Q~stix_bed~0~bleh~

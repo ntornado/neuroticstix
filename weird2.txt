@@ -1,3 +1,9 @@
+6~S~stix_dog~0~I ❤️ cats~
+6~B~stix_book~0~the~story~of you~~~
+6~M~stix_kitty~0~kitty~power~
+6~M~stix_bed~0~just resting~my eyes~
+6~M~stix_oops~2~I know~everything~
+6~Q~stix_stand_cat~0~bark~
 6~M~stix_bed~0~dreaming of~bad drawings~
 6~B~stix_scroll~0~olde~school~~~~
 6~M~stix_robot~0~I'm quality~assurance~
@@ -5,6 +11,5 @@
 6~B~stix_book~0~I HATE~ALL CAPS~-a memoir-~~~
 6~C~stix_computer~0~10 breathe~20 goto 10~30 umm...?~~~
 6~M~stix_schnauzer~0~eat the~roses~
-6~M~stix_kitty~0~stop staring~at me!~
 6~M~stix_blank~0~I am not~invisible~
 6~M~stix_toilet~0~safe~haven~
