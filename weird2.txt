@@ -1,12 +1,17 @@
+6~B~stix_book~0~writings~about~writers~writing~~
+6~D~stix_black_record~0~songs~about songs~~~
+6~M~stix_rabbit~0~not magic...~I live here~
+6~X~stix_shirt~0~I~hate~shirts~~~
+6~Q~stix_kitty~0~bark~
+6~M~stix_schnauzer~0~it's raining~mice & geese~
 6~M~stix_toilet~0~the driver's~seat~
 6~S~stix_dog~0~I ❤️ cats~
 6~B~stix_book~0~the~story~of you~~~
 6~M~stix_kitty~0~kitty~power~
 6~M~stix_bed~0~just resting~my eyes~
 6~M~stix_oops~2~I know~everything~
-6~Q~stix_stand_cat~0~bark~
 6~M~stix_bed~0~dreaming of~bad drawings~
-6~B~stix_scroll~0~olde~school~~~~
+6~B~stix_scroll~0~ye~olde~school~~~
 6~M~stix_robot~0~I'm quality~assurance~
 6~M~stix_upsidedown~0~peek a~boo~
 6~B~stix_book~0~I HATE~ALL CAPS~-a memoir-~~~

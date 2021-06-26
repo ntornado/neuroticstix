@@ -1,3 +1,7 @@
+6~M~stix_robot~0~sadly, it~does compute~
+6~Q~stix_bed~0~snooze~
+6~C~stix_computer~0~I miss~them~~~~
+6~D~stix_black_record~0~The stuff~I regret~and other~songs~
 6~M~stix_tornado~0~spiralling~time~
 6~M~stix_sad~0~some days~are tough~
 6~Q~stix_heart~4~no :)~
