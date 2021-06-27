@@ -1,3 +1,6 @@
+6~M~stix_unicorn_head~0~humans are~a mystery~
+6~M~stix_mask~0~I'm socially~distant~
+6~M~stix_guitar~2~the greatest~song is...~
 6~M~stix_unicorn_head~0~you think~you're real?~
 6~M~stix_schnauzer~0~here comes~trouble~
 6~B~stix_black_book~0~Great~Truths~~~~

@@ -1,3 +1,6 @@
+6~B~stix_scroll~0~the things~I planned~to do...~~~
+6~M~stix_rabbit~0~only room~for one...~
+6~X~stix_shirt~0~don't~look~at me~~~
 6~M~stix_robot~0~sadly, it~does compute~
 6~Q~stix_bed~0~snooze~
 6~C~stix_computer~0~I miss~them~~~~
