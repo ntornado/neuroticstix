@@ -24,7 +24,7 @@
 6~M~stix_fetal~0~anxiety~day~
 6~M~stix_desk~0~preparing 4~the big one~
 6~B~stix_book~0~Oopsy~~a memoir~~~
-6~R~Stink~0~
 6~M~stix_people~0~disconnected~~
 6~Q~stix_oops~1~oh well~
 6~S~stix_fetal~0~lovin' it~
+6~R~Therapist~0~
