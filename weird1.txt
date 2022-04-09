@@ -1,3 +1,4 @@
+6~R~Great~0~
 6~M~stix_unicorn_head~0~humans are~a mystery~
 6~M~stix_mask~0~I'm socially~distant~
 6~M~stix_guitar~2~the greatest~song is...~
@@ -22,3 +23,8 @@
 6~C~stix_computer~0~get off~your~device!~~~
 6~B~stix_book~0~this~is not~a book~~~
 6~X~stix_black_shirt~0~I'm ~the~weirdo~~~
+6~X~stix_shirt~0~I like~shirt~~~~
+6~M~stix_rabbit~0~looking for~a roommate ~
+6~B~stix_book~0~I'm trying~to write a~novel but...~-a memoir-~~
+6~M~stix_robot~0~I'm not a~robot~
+6~R~Complicated~0~
