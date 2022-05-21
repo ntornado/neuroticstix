@@ -1,3 +1,10 @@
+6~S~stix_headache~0~what now?~
+6~M~stix_sign~0~weird~times~
+6~S~stix_rabbit~0~that's it?~
+6~C~stix_computer~0~kinda~sorta~~~~
+6~B~stix_book~0~So So~~a memoir~~~
+6~M~stix_bike~0~powered by~worrying~
+6~X~stix_shirt~0~whatev~~~~~
 6~B~stix_scroll~0~the things~I planned~to do...~~~
 6~M~stix_rabbit~0~only room~for one...~
 6~X~stix_shirt~0~don't~look~at me~~~
