@@ -1,3 +1,8 @@
+6~M~stix_dog~0~cute AND~smart~
+6~M~stix_bike~0~one more~revolution~
+6~B~stix_book~0~"I don't~know" is an~OK answer!~~~
+6~M~stix_schnauzer~0~we can~do it~
+6~M~stix_complicated~0~there's an~upside...~
 6~B~stix_emote_book~0~It is~OK!~~~~
 6~M~stix_bike~0~just one~more hill...~
 6~M~stix_guitar~4~stay~foolish~
