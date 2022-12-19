@@ -1,5 +1,5 @@
 6~X~stix_black_shirt~0~wubba ~lubba ~dub dub~~~
-6~X~stix_shirt~0~other~shirt~is a~Tesla~~
+6~X~stix_shirt~0~other~shirt~is a~car~~
 6~M~stix_mask~0~mask is for~bad breath~
 6~M~stix_oops~0~where are~my pants?~
 6~B~stix_black_book~0~don't~judge~me~~~
