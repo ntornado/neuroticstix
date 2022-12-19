@@ -1,3 +1,7 @@
+6~S~stix_cars~0~traffic!!!~
+6~S~stix_bike~0~tired day~
+6~M~stix_tornado~0~this is a~good day~
+6~X~stix_emote_shirt~0~oh~well~~~~
 6~S~stix_headache~0~what now?~
 6~M~stix_sign~0~weird~times~
 6~S~stix_rabbit~0~that's it?~

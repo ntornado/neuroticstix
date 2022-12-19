@@ -1,3 +1,7 @@
+6~M~stix_rabbit~0~got this on~Airbnb~
+6~C~stix_computer~0~try a~reboot~~~~
+6~B~stix_emote_book~0~hmm...~~a memoir~~~
+6~M~stix_alien~0~you're~weird~
 6~X~stix_black_shirt~0~wubba ~lubba ~dub dub~~~
 6~X~stix_shirt~0~other~shirt~is a~car~~
 6~M~stix_mask~0~mask is for~bad breath~
