@@ -1,3 +1,8 @@
+6~M~stix_sign~0~I don't~buy it~
+6~M~stix_zombie~0~nausea~face~
+6~S~stix_desk~0~safe space~
+6~M~stix_headache~1~bad hair~day~
+6~X~stix_emote_shirt~0~!!!~ouch~!!!~~~
 6~X~stix_shirt~0~not~now~~~~
 6~M~stix_sad_emoji~0~designed~this way...~
 6~M~stix_complicated~0~so, how was~your day???~
