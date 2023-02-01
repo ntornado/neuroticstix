@@ -9,7 +9,7 @@
 6~S~stix_desk~0~safe space~
 6~M~stix_headache~1~bad hair~day~
 6~X~stix_emote_shirt~0~!!!~ouch~!!!~~~
-6~X~stix_shirt~0~not~now~~~~
+6~X~stix_shirt~0~try~again~~~~
 6~M~stix_sad_emoji~0~designed~this way...~
 6~M~stix_complicated~0~so, how was~your day???~
 6~Q~stix_sign~0~😭😭😭😭😭~
