@@ -1,3 +1,9 @@
+6~X~stix_emote_shirt~0~ask me~about~my~sleeves~~
+6~C~stix_computer~0~machine~learning~since 1970~~~
+6~M~stix_people~0~crowded~house~
+6~M~stix_normal~0~I'm animated~today...~
+6~X~stix_black_shirt~0~ask me~about~!#?%$&!~~~
+6~M~stix_upsidedown~0~this is~a yoga pose~
 6~M~stix_normal~16~glasses make~me smart~
 6~M~stix_normal~22~I don't do~social media~
 6~D~stix_black_record~0~de do~doo doo~de dah~dah dah~

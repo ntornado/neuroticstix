@@ -1,8 +1,15 @@
+6~M~stix_upsidedown~0~a new~perspective~
+6~M~stix_heart~20~using all~my senses~
+6~M~stix_rabbit~0~mundane~magic~
+6~Q~stix_kitty~0~purrrr~
+6~B~stix_scroll~0~time~for a~change?~~~
+6~B~stix_black_book~0~the book~of wisdom~& mistakes~~~
+6~S~stix_cars~0~slow down!~
 6~C~stix_computer~0~a formula~for~kindness~~~
 6~M~stix_blank~0~invisible~gestures~
 6~S~stix_kitty~0~gratitude~
 6~C~stix_computer~0~say~yes~~~~
-6~Q~stix_kitty~0~❤️~
+6~Q~stix_schnauzer~0~❤️~
 6~B~stix_black_book~0~lessons~learned &~other~stories~~
 6~M~stix_dog~0~look for the~helpers~
 6~Q~stix_sign~0~it's OK~

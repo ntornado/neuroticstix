@@ -1,3 +1,10 @@
+6~M~stix_sign~0~great msg~goes here!~
+6~M~stix_oops~0~where did I~leave my 🔑?~
+6~C~stix_computer~0~feed your~device!~...or not~~~
+6~C~stix_computer~0~you're~better~than AI!!!~~~
+6~M~stix_kitty~0~something~smells funny~
+6~M~stix_dog~0~beware of~the woof~
+6~M~stix_robot~0~remember~to be human~
 6~M~stix_alien~0~you're~the alien~
 6~B~stix_scroll~0~my other~scroll is~an iPhone~~~
 6~Q~stix_bubble~0~...~

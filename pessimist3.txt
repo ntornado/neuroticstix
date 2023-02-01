@@ -1,3 +1,9 @@
+6~Q~stix_upsidedown~0~why?~
+6~M~stix_sad_emoji~0~bad emoji~day~
+6~B~stix_emote_book~0~wrong~side of~the bed~-a memoir-~~
+6~D~stix_black_record~0~another~sad song~by me~~
+6~C~stix_computer~0~system~offline~~~~
+6~M~stix_fetal~0~do I need~to explain?~
 6~M~stix_sign~0~I don't~buy it~
 6~M~stix_zombie~0~nausea~face~
 6~S~stix_desk~0~safe space~

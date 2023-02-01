@@ -1,5 +1,12 @@
+6~M~stix_upsidedown~0~hiding in~my bubble~
+6~M~stix_robot~0~I'd like~your job~
+6~X~stix_black_shirt~0~ask me~about~failure~~~
+6~V~stix_device~0~who~am~I?~~~
+6~B~stix_emote_book~0~huh???~and other~stories~~~
+6~M~stix_bed~0~what day~is it?~
+6~M~stix_dog~0~a ruff~day...~
 6~S~stix_cars~0~traffic!!!~
-6~S~stix_bike~0~tired day~
+6~S~stix_bike~0~sooo tired~
 6~M~stix_tornado~0~this is a~good day~
 6~X~stix_emote_shirt~0~oh~well~~~~
 6~S~stix_headache~0~what now?~

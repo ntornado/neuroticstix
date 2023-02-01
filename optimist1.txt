@@ -1,3 +1,8 @@
+6~S~stix_heart~4~I did it!~
+6~C~stix_computer~0~head~&~heart~~~
+6~B~stix_emote_book~0~awesome~sauce &~other~recipes~~
+6~M~stix_bike~0~mmm...~exercise~
+6~S~stix_sign~4~patience~
 6~M~stix_dog~0~cute AND~smart~
 6~M~stix_bike~0~one more~revolution~
 6~B~stix_book~0~"I don't~know" is an~OK answer!~~~
