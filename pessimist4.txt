@@ -1,0 +1,21 @@
+6~M~stix_robot~0~humans~scare me~
+6~M~stix_creature~0~humans~scare me~
+6~B~stix_emote_book~0~-ish~~a memoir~~~
+6~M~stix_complicated~0~and this is~a good day~
+6~M~stix_scientist~0~I have trust~issues...~
+6~Q~stix_bubble~0~no~
+6~M~stix_creature~0~feeling~bleh~
+6~M~stix_bubble~0~auto-cor-rex~missed it op~
+6~M~stix_banana~0~I'm not a~punchline~
+6~M~stix_kitty~0~I don't like~showering~
+6~M~stix_vr~0~is it over~yet?~
+6~M~stix_bubble~0~I loathe un-~finished mes~
+6~M~stix_robot~0~Will AI take~my job???~
+6~M~stix_creature~0~it's just a~meteor~
+6~S~stix_banana~0~overripe~
+6~Q~stix_earth~0~oops~
+6~Q~stix_gas~0~oops~
+6~M~stix_creature~0~I'll do it~tomorrow ~
+6~Q~stix_complicated~0~ouch~
+6~M~stix_earth~0~don't forget~about me!~
+6~M~stix_banana~0~some days~are slippery~
