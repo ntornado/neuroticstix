@@ -1,13 +1,3 @@
-6~B~stix_emote_book~0~a catalog~of my~problems~~~
-6~X~stix_shirt~0~not~now~~~~
-6~X~stix_black_shirt~0~oops~~~~~
-6~M~stix_bed~0~too tired~to sleep~
-6~Q~stix_complicated~0~ouch~
-6~S~stix_sad_emoji~0~long story~
-6~M~stix_robot~0~people are~...odd~
-6~M~stix_schnauzer~0~cute but~grumpy~
-6~M~stix_sign~0~too tired~to protest~
-6~X~stix_emote_shirt~0~it's~been~done~~~
 6~M~stix_heart~2~it's ~complicated~
 6~M~stix_guitar~1~harder than~I thought 🎶~
 6~D~stix_black_record~0~my messy~life~and other~songs~
@@ -39,3 +29,8 @@
 6~S~stix_fetal~0~lovin' it~
 6~R~Me~0~
 6~M~stix_upsidedown~0~can I come~out now?~
+6~M~stix_robot~0~humans~scare me~
+6~M~stix_creature~0~humans~scare me~
+6~B~stix_emote_book~0~-ish~~a memoir~~~
+6~M~stix_scientist~0~I have trust~issues...~
+6~Q~stix_bubble~0~no~

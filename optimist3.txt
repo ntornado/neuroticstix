@@ -1,13 +1,3 @@
-6~S~stix_heart~6~doing OK!~
-6~B~stix_scroll~0~nice~job~~~~
-6~M~stix_sign~6~happy~hour~
-6~M~stix_normal~21~sometimes~I smile~
-6~X~stix_black_shirt~0~are~you~present~???~~
-6~D~stix_black_record~0~this is my~happy dance~~~
-6~C~stix_computer~0~be kind~😍❤️🥰😘🤪🤗~~~~
-6~S~stix_rabbit~0~nice trick~
-6~Q~stix_bubble~0~thanks❤️~
-6~X~stix_emote_shirt~0~I'm~ready~~~~
 6~Q~stix_sign~0~yay!~
 6~X~stix_shirt~0~keep~on~going~~~
 6~C~stix_computer~0~make it~simpler~~~~
@@ -38,3 +28,8 @@
 6~L~stix_heart~6~I get by with~a little help~from my friends~
 6~S~stix_unicorn_head~0~dream it~
 6~M~stix_cars~0~what's your~fav podcast?~
+6~M~stix_scientist~0~the missing~ingredient~
+6~Q~stix_bubble~0~yes~
+6~M~stix_banana~0~falling down~is OK~
+6~Q~stix_earth~0~❤️❤️❤️~
+6~M~stix_creature~0~I am~beautiful~

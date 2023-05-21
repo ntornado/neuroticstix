@@ -1,19 +1,34 @@
-6~M~stix_unicorn_head~0~you are~beautiful~
-6~Q~stix_sign~6~😜😭😱🫠😍❤️!~
-6~C~stix_computer~0~humans~be nice!~~~~
-6~X~stix_emote_shirt~0~tell~me~more~~~
-6~Q~stix_bubble~0~yes~
-6~M~stix_gas~0~can you~hear me?~
-6~Q~stix_earth~0~my day~
-6~S~stix_earth~0~I'll wait~
-6~M~stix_unicorn_head~0~I am~beautiful~
+6~S~stix_heart~4~I did it!~
+6~C~stix_computer~0~head~&~heart~~~
+6~B~stix_emote_book~0~awesome~sauce &~other~recipes~~
+6~M~stix_bike~0~mmm...~exercise~
+6~S~stix_sign~4~patience~
+6~M~stix_dog~0~cute AND~smart~
+6~M~stix_bike~0~one more~revolution~
+6~B~stix_book~0~"I don't~know" is an~OK answer!~~~
+6~M~stix_schnauzer~0~we can~do it~
+6~M~stix_complicated~0~there's an~upside...~
+6~M~stix_upsidedown~0~a new~perspective~
+6~M~stix_heart~20~using all~my senses~
+6~M~stix_rabbit~0~mundane~magic~
+6~Q~stix_kitty~0~purrrr~
+6~B~stix_scroll~0~time~for a~change?~~~
+6~B~stix_black_book~0~the book~of wisdom~& mistakes~~~
+6~S~stix_cars~0~slow down!~
+6~C~stix_computer~0~a formula~for~kindness~~~
+6~M~stix_blank~0~invisible~gestures~
+6~S~stix_kitty~0~gratitude~
+6~S~stix_heart~6~doing OK!~
+6~B~stix_scroll~0~nice~job~~~~
+6~M~stix_sign~6~happy~hour~
+6~M~stix_normal~21~sometimes~I smile~
+6~X~stix_black_shirt~0~are~you~present~???~~
+6~D~stix_black_record~0~this is my~happy dance~~~
+6~C~stix_computer~0~be kind~😍❤️🥰😘🤪🤗~~~~
+6~S~stix_rabbit~0~nice trick~
+6~Q~stix_bubble~0~thanks❤️~
+6~X~stix_emote_shirt~0~I'm~ready~~~~
 6~X~stix_emote_shirt~0~ask me~about~my app~~~
-6~M~stix_scientist~0~the missing~ingredient~
-6~M~stix_scientist~0~I discovered~the secret!~
-6~M~stix_banana~0~falling down~is OK~
-6~Q~stix_earth~0~❤️❤️❤️~
-6~M~stix_creature~0~I am~beautiful~
-6~M~stix_scientist~4~it's just a~hypothesis~
 6~S~stix_heart~22~fabulous~
 6~X~stix_emote_shirt~0~it's~A~OK~~~
 6~M~stix_scientist~0~experiment~#468~

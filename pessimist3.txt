@@ -1,13 +1,3 @@
-6~Q~stix_upsidedown~0~why?~
-6~M~stix_sad_emoji~0~bad emoji~day~
-6~B~stix_emote_book~0~wrong~side of~the bed~-a memoir-~~
-6~D~stix_black_record~0~another~sad song~by me~~
-6~C~stix_computer~0~system~offline~~~~
-6~M~stix_fetal~0~do I need~to explain?~
-6~M~stix_sign~0~I don't~buy it~
-6~M~stix_zombie~0~nausea~face~
-6~S~stix_desk~0~safe space~
-6~M~stix_headache~1~bad hair~day~
 6~X~stix_emote_shirt~0~!!!~ouch~!!!~~~
 6~X~stix_shirt~0~try~again~~~~
 6~M~stix_sad_emoji~0~designed~this way...~
@@ -39,3 +29,9 @@
 6~Q~stix_normal~2~Oy~
 6~Q~stix_mask~0~Cough~
 6~M~stix_sad~0~I just cut~some onions~
+6~Q~stix_earth~0~oops~
+6~Q~stix_gas~0~oops~
+6~M~stix_creature~0~I'll do it~tomorrow ~
+6~Q~stix_complicated~0~help~
+6~M~stix_earth~0~don't forget~about me!~
+6~M~stix_banana~0~some days~are slippery~

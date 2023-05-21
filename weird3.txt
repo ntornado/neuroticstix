@@ -1,13 +1,3 @@
-6~M~stix_sign~0~great msg~goes here!~
-6~M~stix_oops~0~where did I~leave my 🔑?~
-6~C~stix_computer~0~feed your~device!~...or not~~~
-6~C~stix_computer~0~you're~better~than AI!!!~~~
-6~M~stix_kitty~0~something~smells funny~
-6~M~stix_dog~0~beware of~the woof~
-6~M~stix_robot~0~remember~to be human~
-6~M~stix_alien~0~you're~the alien~
-6~B~stix_scroll~0~my other~scroll is~an iPhone~~~
-6~Q~stix_bubble~0~...~
 6~M~stix_toilet~0~my digital~throne~
 6~B~stix_black_book~0~My~Weird~Stories~~~
 6~S~stix_normal~6~I ❤️ Stix!~
@@ -38,3 +28,9 @@
 6~M~stix_bed~0~Napping~for $$$~
 6~M~stix_kitty~0~striking for~better food~
 6~M~stix_unicorn_head~0~magic~isn't real~
+6~M~stix_scientist~0~need more~test tubes~
+6~C~stix_computer~0~ChatGPT...~yeah you~know me!~~~
+6~M~stix_sign~0~entropy~unite!~
+6~X~stix_black_shirt~0~got~demo~cracy~?~~
+6~M~stix_alien~0~are my eyes~weird?~
+6~M~stix_banana~0~banana glad~I say orange~
