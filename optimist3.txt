@@ -1,3 +1,7 @@
+6~S~stix_oops~21~why not?~
+6~S~stix_normal~22~doin' fine~
+6~S~stix_shark~0~I'm cute!~
+6~S~stix_cute_cat~0~play time!~
 6~Q~stix_sign~0~yay!~
 6~X~stix_shirt~0~keep~on~going~~~
 6~C~stix_computer~0~make it~simpler~~~~

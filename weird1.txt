@@ -1,3 +1,6 @@
+6~M~stix_sign~21~this sign is~for sale!~
+6~M~stix_cute_cat~0~this is~sewious!~
+6~Q~stix_shark~0~hangry!~
 6~M~stix_desk~0~sit/squat~desk~
 6~M~stix_zombie~0~too much~spinach~
 6~R~Great~0~

@@ -1,3 +1,7 @@
+6~Q~stix_scientist~0~oops~
+6~X~stix_black_shirt~0~stand~back!~~~~
+6~M~stix_shark~0~I'm not your~worst prob~
+6~D~stix_black_record~0~the world~is melting~& other~songs~
 6~X~stix_emote_shirt~0~oh~well~~~~
 6~S~stix_headache~0~what now?~
 6~M~stix_sign~0~weird~times~
