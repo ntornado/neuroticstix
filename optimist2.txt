@@ -1,3 +1,8 @@
+6~B~stix_book~0~words are~important~~~~
+6~M~stix_gas~0~you're a~star~
+6~S~stix_unicorn_head~0~sparkle!~
+6~M~stix_shark~0~OK to have~feelings~
+6~M~stix_shark~0~take a bite~out of life~
 6~C~stix_computer~0~say~yes~~~~
 6~Q~stix_schnauzer~0~❤️~
 6~B~stix_black_book~0~lessons~learned &~other~stories~~
