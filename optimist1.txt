@@ -33,3 +33,7 @@
 6~C~stix_computer~0~humans,~be nice!~~~~
 6~M~stix_scientist~0~I discovered~the secret!~
 6~S~stix_earth~0~I'll wait~
+6~O~stix_stop~0~yay!~~~
+6~M~stix_pants~0~I like~pants!~
+6~S~stix_shark~0~teach me~
+6~O~stix_stop~0~be nice~~~

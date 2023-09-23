@@ -1,3 +1,9 @@
+6~M~stix_complicated~0~puzzles~are fun!~
+6~M~stix_normal~4~I told you~I can smile!~
+6~M~stix_shark~0~don't be~shy...~
+6~M~stix_cute_cat~0~meow~power!~
+6~C~stix_computer~0~i am more~than code~10101010!~~~
+6~M~stix_robot~0~can I borrow~a calculator~
 6~X~stix_black_shirt~0~wubba ~lubba ~dub dub~~~
 6~X~stix_shirt~0~other~shirt~is a~car~~
 6~M~stix_mask~0~mask is for~bad breath~

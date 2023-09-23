@@ -34,3 +34,7 @@
 6~X~stix_black_shirt~0~got~demo~cracy~?~~
 6~M~stix_alien~0~are my eyes~weird?~
 6~M~stix_banana~0~banana glad~I say orange~
+6~M~stix_pants~0~my better~half~
+6~M~stix_zombie~0~avocado~overload!~
+6~O~stix_stop~0~stop?~~~
+6~M~stix_pants~0~pants~party!~

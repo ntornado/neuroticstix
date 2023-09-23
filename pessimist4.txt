@@ -33,3 +33,7 @@
 6~M~stix_robot~0~Will AI take~my job???~
 6~M~stix_creature~0~it's just a~meteor~
 6~S~stix_banana~0~overripe~
+6~M~stix_pants~0~do you~respect me?~
+6~S~stix_people~0~introvert~
+6~S~stix_robot~0~bad robot~
+6~M~stix_creature~0~dinosaur~breath~

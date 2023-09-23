@@ -35,3 +35,5 @@
 6~Q~stix_complicated~0~help~
 6~M~stix_earth~0~don't forget~about me!~
 6~M~stix_banana~0~some days~are slippery~
+6~O~stix_stop~0~ouch!~~~
+6~M~stix_robot~0~replacement~bot~
