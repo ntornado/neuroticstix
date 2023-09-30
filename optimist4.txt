@@ -37,3 +37,4 @@
 6~M~stix_earth~0~reverence~for life~
 6~S~stix_cute_cat~0~try again~
 6~M~stix_cute_cat~0~we're all~cute kitties~
+6~M~stix_robot~0~eat your~veggies~
