@@ -37,4 +37,4 @@
 6~M~stix_pants~0~I like~pants!~
 6~S~stix_shark~0~teach me~
 6~O~stix_stop~0~be nice~~~
-6~M~stix_cute_cat~0~keeping' it~cute~
+6~M~stix_cute_cat~0~keeping it~cute~
