@@ -40,3 +40,5 @@
 6~S~stix_fetal~0~lovin' it~
 6~R~Great~0~
 6~M~stix_unicorn_head~0~humans are~a mystery~
+6~R~Oops~0~
+6~R~Witty~0~

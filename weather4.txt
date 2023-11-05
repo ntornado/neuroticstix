@@ -40,3 +40,5 @@
 6~M~stix_headache~1~bad hair~day~
 6~M~stix_creature~0~it's just a~meteor~
 6~S~stix_banana~0~overripe~
+6~R~Happy~0~
+6~R~Blame~0~
