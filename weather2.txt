@@ -1,3 +1,4 @@
+6~M~stix_earth~0~smells like~weather~
 6~M~stix_shark~0~swimming~weather~
 6~X~stix_shirt~0~temp~era~ture~~~
 6~M~stix_kitty~0~I like this~temperature~

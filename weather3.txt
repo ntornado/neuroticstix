@@ -1,3 +1,4 @@
+6~M~stix_earth~0~it's just an~estimate~
 6~B~stix_book~0~boring~stories of~weather~~~
 6~M~stix_bed~0~sleep-in~weather~
 6~S~stix_sign~0~weird day!~
