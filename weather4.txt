@@ -45,3 +45,5 @@
 6~R~Blame~0~
 6~M~stix_dog~0~smells like~weather~
 6~S~stix_fish~0~weather!~
+6~M~stix_fish~0~weather is~complicated~
+6~S~stix_lizard~0~weather!~

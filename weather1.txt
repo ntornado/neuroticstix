@@ -45,3 +45,5 @@
 6~R~Witty~0~
 6~M~stix_earth~0~weather~is weird~
 6~S~stix_fish~0~I am fish~
+6~M~stix_fish~0~weather~is weird~
+6~M~stix_lizard~2~here's some~weather~
