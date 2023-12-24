@@ -44,3 +44,4 @@
 6~R~Oops~0~
 6~R~Witty~0~
 6~M~stix_earth~0~weather~is weird~
+6~S~stix_fish~0~I am fish~

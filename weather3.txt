@@ -43,3 +43,4 @@
 6~R~Cloud~0~
 6~R~Over~0~
 6~M~stix_unicorn_head~0~weather~is dumb~
+6~M~stix_fish~0~fishy~weather~
