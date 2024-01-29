@@ -38,3 +38,5 @@
 6~M~stix_bubble~0~auto-cor-rex~missed it op~
 6~M~stix_banana~0~I'm not a~punchline~
 6~M~stix_kitty~0~I don't like~showering~
+6~S~stix_rain~0~rainy mood~
+6~Q~stix_fish~0~fishy~

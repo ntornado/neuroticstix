@@ -38,3 +38,5 @@
 6~S~stix_earth~0~sooo hot!~
 6~S~stix_normal~16~why now?~
 6~S~stix_banana~0~mushy day~
+6~S~stix_crutches~0~sooo tired~
+6~S~stix_lizard~0~slithery~

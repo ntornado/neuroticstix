@@ -39,3 +39,5 @@
 6~M~stix_scientist~0~dating app 4~mad geniuses~
 6~M~stix_banana~0~what smells~funny?~
 6~M~stix_gas~0~bleep~bloop~
+6~M~stix_lizard~0~lizard~party~
+6~M~stix_pants~0~pizza~pants!~

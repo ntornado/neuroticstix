@@ -38,3 +38,5 @@
 6~Q~stix_bubble~0~maybe~
 6~S~stix_creature~0~old school~
 6~C~stix_computer~0~what is~artificial~about me?~~~
+6~M~stix_fish~0~clowning~around~
+6~M~stix_fish~0~don't love~to swim~
