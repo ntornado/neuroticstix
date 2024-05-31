@@ -41,3 +41,4 @@
 6~M~stix_gas~0~bleep~bloop~
 6~M~stix_lizard~0~lizard~party~
 6~M~stix_pants~0~pizza~pants!~
+6~X~stix_black_shirt~0~Funny~t-shirt~slogan~~~

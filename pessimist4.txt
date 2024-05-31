@@ -39,3 +39,6 @@
 6~M~stix_creature~0~dinosaur~breath~
 6~Q~stix_creature~0~oy~
 6~R~WeatherThunder~0~
+6~M~stix_sign~0~Uncertain~Times~
+6~Q~stix_banana~0~Bruised~
+6~M~stix_robot~0~Awkwardness~overload~

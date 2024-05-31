@@ -39,3 +39,5 @@
 6~M~stix_creature~0~I am~beautiful~
 6~M~stix_banana~0~you're~appealing~
 6~Q~stix_crutches~21~thanks!~
+6~X~stix_emote_shirt~0~Crazy~Awesome~~~~
+6~X~stix_emote_shirt~0~Game~on!~~~~

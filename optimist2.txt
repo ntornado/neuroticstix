@@ -39,3 +39,5 @@
 6~M~stix_scientist~4~it's just a~hypothesis~
 6~X~stix_emote_shirt~0~tell~me~more~~~
 6~S~stix_sun~0~wake up!~
+6~M~stix_cute_cat~0~Purr purr~Cuddle time!~
+6~X~stix_shirt~0~Happy~it~up!~~~

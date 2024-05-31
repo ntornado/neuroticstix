@@ -40,3 +40,4 @@
 6~S~stix_banana~0~mushy day~
 6~S~stix_crutches~0~sooo tired~
 6~S~stix_lizard~0~slithery~
+6~M~stix_bed~0~Need a~break~

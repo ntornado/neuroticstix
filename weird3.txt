@@ -40,3 +40,5 @@
 6~M~stix_pants~0~pants~party!~
 6~R~WeatherPartlyCloudy~0~
 6~R~WeatherSnowy~0~
+6~S~stix_pants~0~Wear me!~
+6~B~stix_emote_book~0~Drama off~the stage~~~~

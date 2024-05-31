@@ -40,3 +40,5 @@
 6~C~stix_computer~0~what is~artificial~about me?~~~
 6~M~stix_fish~0~clowning~around~
 6~M~stix_fish~0~don't love~to swim~
+6~S~stix_pants~0~Leg day!~
+6~Q~stix_desk~0~Create!~

@@ -39,3 +39,5 @@
 6~M~stix_cute_cat~0~we're all~cute kitties~
 6~M~stix_robot~0~eat your~veggies~
 6~M~stix_dance~16~hang out~fun time!~
+6~B~stix_scroll~0~Embrace the~Madness of~Life~~~
+6~M~stix_heart~20~Spread some~joy today~
