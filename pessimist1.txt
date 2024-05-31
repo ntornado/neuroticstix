@@ -41,3 +41,6 @@
 6~S~stix_crutches~0~sooo tired~
 6~S~stix_lizard~0~slithery~
 6~M~stix_bed~0~Need a~break~
+6~M~stix_pants~0~Bummed~out pants~
+6~Q~stix_headache~2~Ugh~
+6~M~stix_sad~16~Downer~episode~

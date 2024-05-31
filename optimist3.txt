@@ -41,3 +41,5 @@
 6~Q~stix_crutches~21~thanks!~
 6~X~stix_emote_shirt~0~Crazy~Awesome~~~~
 6~X~stix_emote_shirt~0~Game~on!~~~~
+6~S~stix_dog~0~Wag wag!~
+6~M~stix_unicorn_head~0~Yay!~Hooray!~

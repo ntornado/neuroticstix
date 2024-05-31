@@ -41,3 +41,7 @@
 6~M~stix_dance~16~hang out~fun time!~
 6~B~stix_scroll~0~Embrace the~Madness of~Life~~~
 6~M~stix_heart~20~Spread some~joy today~
+6~S~stix_sun~0~Shine on~
+6~M~stix_creature~0~Unique and~Wonderful~
+6~B~stix_emote_book~0~The~Delightful~Annoyance~Cure~~
+6~M~stix_sun~0~Brightness~lies ahead~

@@ -41,3 +41,5 @@
 6~Q~stix_bubble~0~🤪🤪🤪~
 6~M~stix_shark~0~check the~facts~
 6~M~stix_robot~0~Beep Boop.~Happy now?~
+6~X~stix_shirt~0~Weird~is good~~~~
+6~M~stix_robot~0~Beep boop~peculiar~

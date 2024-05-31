@@ -41,3 +41,6 @@
 6~S~stix_rain~0~rainy mood~
 6~Q~stix_fish~0~fishy~
 6~M~stix_headache~18~Too much~on my plate~
+6~M~stix_schnauzer~0~Woof, bad~vibes today~
+6~M~stix_fish~0~Fishy~mood~
+6~M~stix_normal~1~Not my~best day~

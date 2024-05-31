@@ -42,3 +42,6 @@
 6~M~stix_lizard~0~lizard~party~
 6~M~stix_pants~0~pizza~pants!~
 6~X~stix_black_shirt~0~Funny~t-shirt~slogan~~~
+6~B~stix_emote_book~0~Embracing~Quirks~Celebrate~the Weird~~
+6~M~stix_normal~22~Annoyed?~Not today!~
+6~M~stix_robot~0~Weirdness~activated!~

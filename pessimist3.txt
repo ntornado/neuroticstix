@@ -41,3 +41,5 @@
 6~M~stix_sun~0~reluctantly~awake~
 6~Q~stix_earth~0~Worried~
 6~M~stix_fetal~0~ready to~party!!!~
+6~Q~stix_rain~0~Great~
+6~M~stix_earth~0~Anxious for~humanity~
