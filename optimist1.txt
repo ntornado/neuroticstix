@@ -44,3 +44,4 @@
 6~X~stix_shirt~0~Happy~day!~~~~
 6~M~stix_unicorn_head~0~Rainbows~and giggles!~
 6~M~stix_rabbit~0~Silly~Surprise~
+6~X~stix_emote_shirt~0~I~REGRET~NOTHING~~~

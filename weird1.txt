@@ -43,3 +43,4 @@
 6~S~stix_pants~0~Leg day!~
 6~Q~stix_desk~0~Create!~
 6~M~stix_pants~0~Pants Gone~Wild~
+6~X~stix_emote_shirt~0~I~REGRET~A FEW~THINGS~~
