@@ -1,0 +1,50 @@
+6~M~stix_earth~0~how about~YOU forecast~
+6~Q~stix_fetal~0~weather~
+6~M~stix_robot~0~weather~is weird~
+6~M~stix_normal~2~here's some~weather~
+6~M~stix_creature~0~NO more~asteroids~
+6~R~Rainbow~0~
+6~C~stix_computer~0~forecast~is blurry~~~~
+6~M~stix_zombie~0~broccoli~day~
+6~S~stix_tornado~0~avenge me!~
+6~M~stix_tornado~0~neurotic~tornado~
+6~M~stix_robot~0~some days~are so 10101~
+6~Q~stix_schnauzer~0~meow~
+6~M~stix_rabbit~0~productivity~rabbit~
+6~B~stix_book~0~The secret~to life is~%]#]#{}%^~~~
+6~X~stix_black_shirt~0~I'm ~the~weirdo~~~
+6~M~stix_rabbit~0~looking for~a roommate ~
+6~S~stix_creature~0~old school~
+6~C~stix_computer~0~what is~artificial~about me?~~~
+6~B~stix_emote_book~0~It is~OK!~~~~
+6~M~stix_guitar~4~stay~foolish~
+6~M~stix_blank~0~imagine~it~
+6~B~stix_scroll~0~I will try~something~new today~~~
+6~M~stix_heart~6~I like~nice people~
+6~C~stix_computer~0~-   *~*~\_____/~~~
+6~Q~stix_heart~6~heart~
+6~M~stix_tornado~0~I can learn~from this...~
+6~M~stix_bed~0~appreciate~today~
+6~S~stix_earth~0~I'll wait~
+6~O~stix_stop~0~be nice~~~
+6~M~stix_shark~0~some days~bite~
+6~M~stix_heart~2~it's ~complicated~
+6~M~stix_blank~0~Today I feel~invisible~
+6~S~stix_cars~0~out of gas~
+6~M~stix_tornado~0~stop~staring~
+6~M~stix_bed~0~one more~snooze~
+6~C~stix_computer~0~\    /~*~/----\~~~
+6~C~stix_computer~0~does~not~compute~~~
+6~M~stix_bed~0~stuck in~bed today~
+6~M~stix_tornado~0~things are~totally fine~
+6~M~stix_fetal~0~anxiety~day~
+6~S~stix_fetal~0~lovin' it~
+6~R~Great~0~
+6~M~stix_unicorn_head~0~humans are~a mystery~
+6~R~Oops~0~
+6~R~Witty~0~
+6~M~stix_earth~0~weather~is weird~
+6~S~stix_fish~0~I am fish~
+6~M~stix_fish~0~weather~is weird~
+6~M~stix_lizard~2~here's some~weather~
+6~M~stix_robot~0~Beep Boop.~Happy now?~

@@ -1,0 +1,46 @@
+6~Q~stix_scientist~0~oops~
+6~X~stix_black_shirt~0~stand~back!~~~~
+6~M~stix_shark~0~I'm not your~worst prob~
+6~D~stix_black_record~0~the world~is melting~& other~songs~
+6~X~stix_emote_shirt~0~oh~well~~~~
+6~S~stix_headache~0~what now?~
+6~M~stix_sign~0~weird~times~
+6~S~stix_rabbit~0~that's it?~
+6~C~stix_computer~0~kinda~sorta~~~~
+6~B~stix_book~0~So So~~a memoir~~~
+6~M~stix_bike~0~powered by~worrying~
+6~X~stix_shirt~0~whatev~~~~~
+6~B~stix_scroll~0~the things~I planned~to do...~~~
+6~M~stix_rabbit~0~only room~for one...~
+6~X~stix_shirt~0~don't~look~at me~~~
+6~M~stix_robot~0~sadly, it~does compute~
+6~Q~stix_bed~0~snooze~
+6~C~stix_computer~0~I miss~them~~~~
+6~D~stix_black_record~0~The stuff~I regret~and other~songs~
+6~M~stix_tornado~0~spiralling~time~
+6~M~stix_sad~0~some days~are tough~
+6~Q~stix_heart~4~no :)~
+6~M~stix_cars~0~late for the~apocalypse~
+6~M~stix_headache~0~never been~better~
+6~M~stix_schnauzer~0~people are~so bizarre~
+6~M~stix_upsidedown~0~I'm not~worried...~
+6~Q~stix_desk~0~courage~
+6~B~stix_scroll~0~we've got~more work~to do!~~~
+6~R~Sad~0~
+6~B~stix_book~0~there~is no~-------~bottom~~
+6~M~stix_kitty~0~humans~screwed up~
+6~R~Fetal~0~
+6~M~stix_cars~0~get me off~this earth~
+6~C~stix_computer~0~game over.~thanks for~playing.~~~
+6~X~stix_black_shirt~0~what~a~week~~~
+6~M~stix_complicated~0~and this is~a good day~
+6~M~stix_creature~0~feeling~bleh~
+6~M~stix_bubble~0~auto-cor-rex~missed it op~
+6~M~stix_banana~0~I'm not a~punchline~
+6~M~stix_kitty~0~I don't like~showering~
+6~S~stix_rain~0~rainy mood~
+6~Q~stix_fish~0~fishy~
+6~M~stix_headache~18~Too much~on my plate~
+6~M~stix_schnauzer~0~Woof, bad~vibes today~
+6~M~stix_fish~0~Fishy~mood~
+6~M~stix_normal~1~Not my~best day~

@@ -1,0 +1,45 @@
+6~X~stix_emote_shirt~0~!!!~ouch~!!!~~~
+6~X~stix_shirt~0~try~again~~~~
+6~M~stix_sad_emoji~0~designed~this way...~
+6~M~stix_complicated~0~so, how was~your day???~
+6~Q~stix_sign~0~😭😭😭😭😭~
+6~B~stix_book~0~reluctantly~~a memoir~~~
+6~Q~stix_kitty~0~messy~
+6~X~stix_black_shirt~0~nope~nope~nope~~~
+6~C~stix_computer~0~outlook~not so~good~~~
+6~M~stix_oops~1~I thought it~was Saturday~
+6~X~stix_black_shirt~0~don't~ask~~~~
+6~D~stix_black_record~0~all of the~mistakes~me, myself,~and I~
+6~M~stix_tornado~0~my oops~tornado~
+6~M~stix_desk~0~waiting for~this to pass~
+6~M~stix_toilet~0~private~office~
+6~M~stix_robot~0~don't trust~social media~
+6~M~stix_bed~0~sooooooo~sleepy~
+6~B~stix_black_book~0~The Book~of Stuff~I Regret~~~
+6~M~stix_kitty~0~I have~my reasons~
+6~X~stix_black_shirt~0~😭 😭~blah~😢 😩~~~
+6~M~stix_toilet~0~I'm quite~busy~
+6~M~stix_robot~0~don't rely~on machines~
+6~R~Stink~0~
+6~C~stix_computer~0~404 Error~Not Found~Oopsy...~~~
+6~M~stix_tornado~0~life feels~like this~
+6~M~stix_rabbit~0~it's safer~in here~
+6~M~stix_desk~0~home~schooling~
+6~M~stix_upsidedown~0~today is~upside down~
+6~Q~stix_normal~2~Oy~
+6~Q~stix_mask~0~Cough~
+6~M~stix_sad~0~I just cut~some onions~
+6~Q~stix_earth~0~oops~
+6~Q~stix_gas~0~oops~
+6~M~stix_creature~0~I'll do it~tomorrow ~
+6~Q~stix_complicated~0~help~
+6~M~stix_earth~0~don't forget~about me!~
+6~M~stix_banana~0~some days~are slippery~
+6~O~stix_stop~0~ouch!~~~
+6~M~stix_robot~0~replacement~bot~
+6~Q~stix_fetal~0~awesome~
+6~M~stix_sun~0~reluctantly~awake~
+6~Q~stix_earth~0~Worried~
+6~M~stix_fetal~0~ready to~party!!!~
+6~Q~stix_rain~0~Great~
+6~M~stix_earth~0~Anxious for~humanity~

@@ -1,0 +1,49 @@
+6~M~stix_earth~0~weather is~complicated~
+6~M~stix_pants~0~pants~weather~
+6~M~stix_gas~0~appreciate~atmosphere~
+6~M~stix_normal~0~weather~is dumb~
+6~S~stix_fetal~0~weather~
+6~R~Complicated~0~
+6~B~stix_book~0~#?*😱#❤️!~& other~stories~~~
+6~S~stix_gas~0~spaced out~
+6~M~stix_normal~17~weirdos~rule~
+6~M~stix_schnauzer~0~barking up~wrong tree~
+6~X~stix_emote_shirt~0~ask me~about~my~sleeves~~
+6~X~stix_black_shirt~0~ask me~about~!#?%$&!~~~
+6~M~stix_complicated~0~you want the~whole story?~
+6~M~stix_schnauzer~0~humans need~a chill pill~
+6~C~stix_computer~0~try a~reboot~~~~
+6~M~stix_alien~0~you're~weird~
+6~M~stix_kitty~0~something~smells funny~
+6~M~stix_bike~0~mmm...~exercise~
+6~S~stix_sign~4~patience~
+6~M~stix_dog~0~cute AND~smart~
+6~M~stix_complicated~0~there's an~upside...~
+6~M~stix_rabbit~0~mundane~magic~
+6~Q~stix_kitty~0~purrrr~
+6~B~stix_black_book~0~the book~of wisdom~& mistakes~~~
+6~M~stix_blank~0~invisible~gestures~
+6~M~stix_sign~6~happy~hour~
+6~S~stix_rabbit~0~nice trick~
+6~X~stix_emote_shirt~0~ask me~about~my app~~~
+6~M~stix_scientist~0~experiment~#468~
+6~M~stix_creature~0~I'm cute...~but extinct~
+6~M~stix_earth~0~reverence~for life~
+6~S~stix_cute_cat~0~try again~
+6~M~stix_robot~0~eat your~veggies~
+6~B~stix_emote_book~0~a catalog~of my~problems~~~
+6~X~stix_shirt~0~not~now~~~~
+6~X~stix_black_shirt~0~oops~~~~~
+6~S~stix_sad_emoji~0~long story~
+6~M~stix_schnauzer~0~cute but~grumpy~
+6~X~stix_black_shirt~0~ask me~about~failure~~~
+6~B~stix_emote_book~0~huh???~and other~stories~~~
+6~M~stix_headache~1~bad hair~day~
+6~M~stix_creature~0~it's just a~meteor~
+6~S~stix_banana~0~overripe~
+6~R~Happy~0~
+6~R~Blame~0~
+6~M~stix_dog~0~smells like~weather~
+6~S~stix_fish~0~weather!~
+6~M~stix_fish~0~weather is~complicated~
+6~S~stix_lizard~0~weather!~

@@ -1,0 +1,6 @@
+{
+    "version" : 1,
+    "OpenAI-default-model" : "testopenai",
+    "Anthropic-default-model" : "test-anthro",
+    "Gemini-default-model" : "test-gemini"
+}

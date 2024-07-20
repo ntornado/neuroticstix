@@ -1,0 +1,48 @@
+6~M~stix_earth~0~it's just an~estimate~
+6~B~stix_book~0~boring~stories of~weather~~~
+6~M~stix_bed~0~sleep-in~weather~
+6~S~stix_sign~0~weird day!~
+6~S~stix_desk~0~weather!~
+6~M~stix_guitar~0~somethin abt~the weather~
+6~S~stix_normal~6~I ❤️ Stix!~
+6~M~stix_zombie~0~just another~weird day~
+6~M~stix_schnauzer~0~tired of all~the barking~
+6~C~stix_computer~0~computers~are~overrated~~~
+6~M~stix_alien~0~earth life~is bizzaro!~
+6~M~stix_kitty~0~my spelljng~isnt purrfct~
+6~R~Therapist~0~
+6~M~stix_cars~0~I love~traffic~
+6~M~stix_heart~0~nonsense~makes sense~
+6~S~stix_oops~21~why not?~
+6~M~stix_complicated~0~learning~moment~
+6~M~stix_normal~5~unexpected~beauty~
+6~B~stix_black_book~0~Things~I Learned~by Mistake~~~
+6~S~stix_unicorn_head~0~dream it~
+6~M~stix_scientist~0~the missing~ingredient~
+6~Q~stix_earth~0~❤️❤️❤️~
+6~M~stix_banana~0~you're~appealing~
+6~X~stix_emote_shirt~0~!!!~ouch~!!!~~~
+6~B~stix_book~0~reluctantly~~a memoir~~~
+6~C~stix_computer~0~outlook~not so~good~~~
+6~M~stix_tornado~0~my oops~tornado~
+6~M~stix_kitty~0~I have~my reasons~
+6~R~Stink~0~
+6~M~stix_upsidedown~0~today is~upside down~
+6~Q~stix_earth~0~oops~
+6~Q~stix_gas~0~oops~
+6~M~stix_earth~0~don't forget~about me!~
+6~Q~stix_fetal~0~awesome~
+6~O~stix_stop~0~ouch!~~~
+6~M~stix_banana~0~some days~are slippery~
+6~S~stix_robot~0~bad robot~
+6~M~stix_creature~0~dinosaur~breath~
+6~M~stix_schnauzer~0~here comes~trouble~
+6~B~stix_black_book~0~Great~Truths~~~~
+6~X~stix_black_shirt~0~I~hate~shirts~~~
+6~M~stix_earth~0~weather joke~goes here~
+6~R~Cloud~0~
+6~R~Over~0~
+6~M~stix_unicorn_head~0~weather~is dumb~
+6~M~stix_fish~0~fishy~weather~
+6~M~stix_fish~0~just another~weird day~
+6~M~stix_lizard~0~how about~YOU forecast~

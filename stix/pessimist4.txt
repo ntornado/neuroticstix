@@ -1,0 +1,45 @@
+6~B~stix_emote_book~0~a catalog~of my~problems~~~
+6~X~stix_shirt~0~not~now~~~~
+6~X~stix_black_shirt~0~oops~~~~~
+6~M~stix_bed~0~too tired~to sleep~
+6~Q~stix_complicated~0~ouch~
+6~S~stix_sad_emoji~0~long story~
+6~M~stix_robot~0~people are~...odd~
+6~M~stix_schnauzer~0~cute but~grumpy~
+6~M~stix_sign~0~too tired~to protest~
+6~X~stix_emote_shirt~0~it's~been~done~~~
+6~M~stix_upsidedown~0~hiding in~my bubble~
+6~M~stix_robot~0~I'd like~your job~
+6~X~stix_black_shirt~0~ask me~about~failure~~~
+6~V~stix_device~0~who~am~I?~~~
+6~B~stix_emote_book~0~huh???~and other~stories~~~
+6~M~stix_bed~0~what day~is it?~
+6~M~stix_dog~0~a ruff~day...~
+6~S~stix_cars~0~traffic!!!~
+6~S~stix_bike~0~sooo tired~
+6~M~stix_tornado~0~this is a~good day~
+6~Q~stix_upsidedown~0~why?~
+6~M~stix_sad_emoji~0~bad emoji~day~
+6~B~stix_emote_book~0~wrong~side of~the bed~-a memoir-~~
+6~D~stix_black_record~0~another~sad song~by me~~
+6~C~stix_computer~0~system~offline~~~~
+6~M~stix_fetal~0~do I need~to explain?~
+6~M~stix_sign~0~I don't~buy it~
+6~M~stix_zombie~0~nausea~face~
+6~S~stix_desk~0~safe space~
+6~M~stix_headache~1~bad hair~day~
+6~M~stix_vr~0~is it over~yet?~
+6~M~stix_bubble~0~I loathe un-~finished mes~
+6~M~stix_robot~0~Will AI take~my job???~
+6~M~stix_creature~0~it's just a~meteor~
+6~S~stix_banana~0~overripe~
+6~M~stix_pants~0~do you~respect me?~
+6~S~stix_people~0~introvert~
+6~S~stix_robot~0~bad robot~
+6~M~stix_creature~0~dinosaur~breath~
+6~Q~stix_creature~0~oy~
+6~R~WeatherThunder~0~
+6~M~stix_sign~0~Uncertain~Times~
+6~Q~stix_banana~0~Bruised~
+6~M~stix_robot~0~Awkwardness~overload~
+6~M~stix_robot~0~ERROR:~bad day~

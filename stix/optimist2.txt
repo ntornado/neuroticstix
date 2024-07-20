@@ -1,0 +1,46 @@
+6~B~stix_book~0~words are~important~~~~
+6~M~stix_gas~0~you're a~star~
+6~S~stix_unicorn_head~0~sparkle!~
+6~M~stix_shark~0~OK to have~feelings~
+6~M~stix_shark~0~take a bite~out of life~
+6~C~stix_computer~0~say~yes~~~~
+6~Q~stix_schnauzer~0~❤️~
+6~B~stix_black_book~0~lessons~learned &~other~stories~~
+6~M~stix_dog~0~look for the~helpers~
+6~Q~stix_sign~0~it's OK~
+6~X~stix_shirt~0~lucky~shirt~~~~
+6~S~stix_guitar~6~la la la~
+6~X~stix_black_shirt~0~embrace~it~~~~
+6~R~Rainbow~0~
+6~B~stix_black_book~0~my~favorite~things~~~
+6~S~stix_heart~6~sweetness~
+6~M~stix_oops~4~it's a~YES day~
+6~C~stix_computer~0~high~quality~code~~~
+6~X~stix_shirt~0~I~see~you~~~
+6~Q~stix_bike~0~Breathe~
+6~M~stix_unicorn_head~0~Feelin'~lucky~
+6~B~stix_scroll~0~Let it~go...~~~~
+6~Q~stix_normal~6~🎶🎵🎶🥁🎸🎤~
+6~X~stix_shirt~0~I'm~OK.~You're~OK.~~
+6~M~stix_unicorn_head~0~trust~your ideas~
+6~M~stix_normal~6~the plan~can change~
+6~M~stix_normal~4~begin the~journey...~
+6~B~stix_book~0~make~it~happen~~~
+6~B~stix_scroll~0~today~is the~day~~~
+6~M~stix_rabbit~0~make some~magic~
+6~X~stix_shirt~0~you're~doing~fine~~~
+6~X~stix_shirt~0~love~is~love~~~
+6~R~Heart~0~
+6~M~stix_kitty~0~it's all~good~
+6~M~stix_bike~0~the courage~to continue~
+6~M~stix_gas~0~can you~hear me?~
+6~Q~stix_earth~0~my day~
+6~M~stix_creature~0~Good hair~day~
+6~M~stix_scientist~4~it's just a~hypothesis~
+6~X~stix_emote_shirt~0~tell~me~more~~~
+6~S~stix_sun~0~wake up!~
+6~M~stix_cute_cat~0~Purr purr~Cuddle time!~
+6~X~stix_shirt~0~Happy~it~up!~~~
+6~M~stix_parrot~0~Yay!~Squawk!~
+6~X~stix_shirt~0~Bliss~Ignites~~~~
+6~M~stix_unicorn_head~0~Magic~awaits~
