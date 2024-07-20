@@ -1,6 +1,6 @@
 {
     "version" : 1,
-    "OpenAI-default-model" : "testopenai",
-    "Anthropic-default-model" : "test-anthro",
-    "Gemini-default-model" : "test-gemini"
+    "model-OpenAI" : "gpt-4o-mini",
+    "model-Anthropic" : "claude-3-haiku-20240307",
+    "model-Gemini" : "gemini-pro"
 }
