@@ -47,3 +47,4 @@
 6~S~stix_fish~0~weather!~
 6~M~stix_fish~0~weather is~complicated~
 6~S~stix_lizard~0~weather!~
+6~M~stix_dumpster~0~Burnin'~bright!~

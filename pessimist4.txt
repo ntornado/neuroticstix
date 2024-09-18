@@ -43,3 +43,8 @@
 6~Q~stix_banana~0~Bruised~
 6~M~stix_robot~0~Awkwardness~overload~
 6~M~stix_robot~0~ERROR:~bad day~
+6~M~stix_dumpster~0~This~stinks!~
+6~M~stix_koala~0~Stressed~koala~
+6~M~stix_red_flag~0~here comes~trouble~
+6~M~stix_island~1~Stranded~again~
+6~M~stix_koala~0~Life's tough~sometimes~

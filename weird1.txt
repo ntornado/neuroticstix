@@ -44,3 +44,9 @@
 6~Q~stix_desk~0~Create!~
 6~M~stix_pants~0~Pants Gone~Wild~
 6~X~stix_emote_shirt~0~I~REGRET~A FEW~THINGS~~
+6~M~stix_mouse~0~Where's~the cheese?~
+6~Q~stix_cute_alien~0~bleep!~
+6~M~stix_taco~0~sassy~is my thing~
+6~M~stix_unicorn_head~0~Sparkles!~And chaos!~
+6~Q~stix_poop~0~cool~
+6~M~stix_dumpster~0~smell the~roses!~
