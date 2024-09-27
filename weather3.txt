@@ -46,5 +46,3 @@
 6~M~stix_fish~0~fishy~weather~
 6~M~stix_fish~0~just another~weird day~
 6~M~stix_lizard~0~how about~YOU forecast~
-6~M~stix_koala~0~Nap~time!~
-6~Q~stix_island~21~Relaxed~
