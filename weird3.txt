@@ -43,9 +43,3 @@
 6~S~stix_pants~0~Wear me!~
 6~B~stix_emote_book~0~Drama off~the stage~~~~
 6~S~stix_normal~5~Weirdness~
-6~M~stix_mouse~0~here comes~trouble~
-6~M~stix_taco~0~Bring the~flavor!~
-6~M~stix_koala~0~more cute~stickers!~
-6~M~stix_creature~0~Can you~believe it?~
-6~M~stix_dumpster~0~Burnin'~bright!~
-6~M~stix_tornado~0~Storm of~thoughts~

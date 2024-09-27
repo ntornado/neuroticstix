@@ -44,9 +44,3 @@
 6~M~stix_schnauzer~0~Woof, bad~vibes today~
 6~M~stix_fish~0~Fishy~mood~
 6~M~stix_normal~1~Not my~best day~
-6~M~stix_koala~0~Nothing~to chew~
-6~M~stix_mouse~0~Squeaks~of sorrow~
-6~M~stix_dumpster~0~life is~great!~
-6~M~stix_cute_alien~0~chaos~awaits~
-6~Q~stix_lizard~0~Ugh~
-6~Q~stix_koala~0~Why me?~

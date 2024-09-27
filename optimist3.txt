@@ -45,7 +45,3 @@
 6~M~stix_unicorn_head~0~Yay!~Hooray!~
 6~M~stix_koala~0~Hug a~tree!~
 6~M~stix_fish~0~Swimmin'~and grinnin'~
-6~M~stix_koala~0~Nap~time!~
-6~M~stix_island~0~life is~great!~
-6~M~stix_koala~0~too cute~to do work~
-6~M~stix_koala~0~Eucalyptus~vibes!~

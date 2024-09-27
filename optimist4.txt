@@ -45,7 +45,3 @@
 6~M~stix_creature~0~Unique and~Wonderful~
 6~B~stix_emote_book~0~The~Delightful~Annoyance~Cure~~
 6~M~stix_sun~0~Brightness~lies ahead~
-6~M~stix_koala~0~Leaves are~tasty!~
-6~M~stix_cute_alien~0~Beep boop!~Life is fun!~
-6~M~stix_island~5~Soak in~the sun~
-6~M~stix_poop~0~it's gonna~be fine~

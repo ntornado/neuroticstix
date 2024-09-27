@@ -44,8 +44,3 @@
 6~M~stix_parrot~0~Yay!~Squawk!~
 6~X~stix_shirt~0~Bliss~Ignites~~~~
 6~M~stix_unicorn_head~0~Magic~awaits~
-6~M~stix_taco~0~I'm~delicious!~
-6~M~stix_koala~0~Eucalyptus~bliss!~
-6~M~stix_island~21~Island~time~
-6~M~stix_poop~0~hang in~there~
-6~M~stix_island~21~Island~time!~
