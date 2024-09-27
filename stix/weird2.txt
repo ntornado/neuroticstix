@@ -45,3 +45,6 @@
 6~B~stix_emote_book~0~Embracing~Quirks~Celebrate~the Weird~~
 6~M~stix_normal~22~Annoyed?~Not today!~
 6~M~stix_robot~0~Weirdness~activated!~
+6~Q~stix_mouse~0~Scurry!~
+6~M~stix_zombie~0~built with~avocado~
+6~S~stix_taco~0~taco face!~

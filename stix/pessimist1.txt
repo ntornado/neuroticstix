@@ -45,3 +45,8 @@
 6~Q~stix_headache~2~Ugh~
 6~M~stix_sad~16~Downer~episode~
 6~X~stix_emote_shirt~0~I~REGRET~EVERY~THING~~
+6~M~stix_mouse~0~Trapped~in this maze~
+6~M~stix_cute_alien~0~takeover is~imminent~
+6~Q~stix_taco~0~oops~
+6~M~stix_dumpster~0~never been~better~
+6~M~stix_taco~0~Just my~luck...~
