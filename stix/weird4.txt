@@ -49,3 +49,4 @@
 6~M~stix_koala~0~this is~sewious!~
 6~M~stix_lizard~0~Chillin'~in style!~
 6~S~stix_poop~0~All smiles~
+6~M~stix_taco~0~Lettuce~be weird!~
