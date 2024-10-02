@@ -32,7 +32,6 @@
 6~M~stix_robot~0~remember~to be human~
 6~M~stix_alien~0~you're~the alien~
 6~B~stix_scroll~0~my other~scroll is~an iPhone~~~
-6~Q~stix_bubble~0~...~
 6~Q~stix_rabbit~0~poof!~
 6~V~stix_device~0~device~on~ice ~~~
 6~M~stix_scientist~0~and u think~I'M mad!...~
