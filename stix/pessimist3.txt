@@ -48,3 +48,4 @@
 6~M~stix_poop~0~Poopy~day!~
 6~M~stix_fetal~0~I don't have~anxiety~
 6~M~stix_dumpster~0~In the~trash~
+6~Q~stix_vampire~0~I suck~
