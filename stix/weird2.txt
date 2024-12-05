@@ -49,3 +49,6 @@
 6~M~stix_zombie~0~built with~avocado~
 6~S~stix_taco~0~taco face!~
 6~M~stix_vampire~0~I'm a people~person...~
+6~S~stix_rabbit~0~Silly hat!~
+6~M~stix_cute_alien~0~Feeling~extra odd~
+6~X~stix_black_shirt~0~Crazy~Times~~~~

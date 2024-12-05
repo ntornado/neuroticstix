@@ -48,4 +48,5 @@
 6~M~stix_koala~0~Eucalyptus~bliss!~
 6~M~stix_island~21~Island~time~
 6~M~stix_poop~0~hang in~there~
-6~M~stix_island~21~Island~time!~
+6~M~stix_bed~0~Time to~dream~
+6~M~stix_lizard~0~so very~happy~

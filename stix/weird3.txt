@@ -49,3 +49,5 @@
 6~M~stix_creature~0~Can you~believe it?~
 6~M~stix_dumpster~0~Burnin'~bright!~
 6~M~stix_tornado~0~Storm of~thoughts~
+6~M~stix_robot~0~What is~my purpose?~
+6~M~stix_alien~0~Messages~from beyond!~

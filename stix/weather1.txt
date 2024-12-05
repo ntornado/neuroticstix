@@ -49,3 +49,4 @@
 6~M~stix_lizard~2~here's some~weather~
 6~M~stix_robot~0~Beep Boop.~Happy now?~
 6~Q~stix_cute_alien~0~bleep!~
+6~X~stix_black_shirt~0~Crazy~Times~~~~

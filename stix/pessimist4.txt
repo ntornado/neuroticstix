@@ -48,3 +48,5 @@
 6~M~stix_red_flag~0~here comes~trouble~
 6~M~stix_island~1~Stranded~again~
 6~M~stix_koala~0~Life's tough~sometimes~
+6~M~stix_schnauzer~0~Barking~madness!~
+6~Q~stix_fetal~0~Zzz...~

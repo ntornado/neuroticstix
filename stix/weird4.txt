@@ -49,3 +49,6 @@
 6~M~stix_lizard~0~Chillin'~in style!~
 6~S~stix_poop~0~All smiles~
 6~M~stix_taco~0~Lettuce~be weird!~
+6~X~stix_emote_shirt~0~Nap~Time~~~~
+6~Q~stix_parrot~0~Weird!~
+6~M~stix_robot~0~Awkwardity~detected!~

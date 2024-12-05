@@ -49,3 +49,4 @@
 6~M~stix_island~0~life is~great!~
 6~M~stix_koala~0~too cute~to do work~
 6~M~stix_koala~0~Eucalyptus~vibes!~
+6~M~stix_rabbit~0~Bouncing is~my style~

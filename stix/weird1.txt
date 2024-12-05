@@ -50,3 +50,5 @@
 6~M~stix_unicorn_head~0~Sparkles!~And chaos!~
 6~Q~stix_poop~0~cool~
 6~M~stix_dumpster~0~smell the~roses!~
+6~M~stix_creature~0~Wiggle~wiggle~
+6~M~stix_gas~0~a strange~message~

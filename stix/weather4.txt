@@ -48,3 +48,5 @@
 6~M~stix_fish~0~weather is~complicated~
 6~S~stix_lizard~0~weather!~
 6~M~stix_dumpster~0~Burnin'~bright!~
+6~M~stix_gas~0~a strange~message~
+6~M~stix_cute_alien~0~takeover is~imminent~

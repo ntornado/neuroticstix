@@ -48,3 +48,5 @@
 6~M~stix_lizard~0~how about~YOU forecast~
 6~M~stix_koala~0~Nap~time!~
 6~Q~stix_island~21~Relaxed~
+6~Q~stix_parrot~0~Weird!~
+6~M~stix_cute_cat~0~Let’s not~discuss it~
