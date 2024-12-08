@@ -2,7 +2,11 @@
 
 Repository for storing stickers from the community for [Neurotic Stix Pro](https://neurotictornado.com/stix.html).
 
-![Neurotic Stix App](https://neurotictornado.com/images/stix/NSP-collage.png)
+[![Neurotic Stix on website](https://neurotictornado.com/images/stix/NSP-collage.png)](https://neurotictornado.com/stix.html)
+
+[![Neurotic Stix in app store](https://neurotictornado.com/images/appstore.png)](https://apps.apple.com/app/id1457504763)
+
+## Sticker Archive
 
 * [optimist 1](./stix/optimist1.txt)
 * [optimist 2](./stix/optimist2.txt)
