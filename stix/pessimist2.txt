@@ -42,7 +42,6 @@
 6~Q~stix_fish~0~fishy~
 6~M~stix_headache~18~Too much~on my plate~
 6~M~stix_schnauzer~0~Woof, bad~vibes today~
-6~M~stix_fish~0~Fishy~mood~
 6~M~stix_normal~1~Not my~best day~
 6~M~stix_koala~0~Nothing~to chew~
 6~M~stix_mouse~0~Squeaks~of sorrow~
@@ -51,3 +50,5 @@
 6~Q~stix_lizard~0~Ugh~
 6~Q~stix_koala~0~Why me?~
 6~Q~stix_vampire~0~lonely~
+6~M~stix_sushi~0~Feeling~kind of raw~
+6~M~stix_zen~97~Who needs~thoughts?~

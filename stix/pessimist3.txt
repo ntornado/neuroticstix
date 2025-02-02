@@ -50,3 +50,4 @@
 6~M~stix_dumpster~0~In the~trash~
 6~Q~stix_vampire~0~I suck~
 6~M~stix_dumpster~0~So much~chaos!~
+6~M~stix_fish~0~Fishy~mood~

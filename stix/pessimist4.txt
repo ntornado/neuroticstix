@@ -50,3 +50,5 @@
 6~M~stix_koala~0~Life's tough~sometimes~
 6~M~stix_schnauzer~0~Barking~madness!~
 6~Q~stix_fetal~0~Zzz...~
+6~S~stix_sushi~0~fishy day~
+6~V~stix_device~0~why~me?~~~~

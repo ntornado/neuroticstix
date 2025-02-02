@@ -52,3 +52,4 @@
 6~M~stix_dumpster~0~smell the~roses!~
 6~M~stix_creature~0~Wiggle~wiggle~
 6~M~stix_gas~0~a strange~message~
+6~M~stix_sushi~0~I'm not~fishy~

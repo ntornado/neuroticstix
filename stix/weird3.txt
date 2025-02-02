@@ -51,3 +51,5 @@
 6~M~stix_tornado~0~Storm of~thoughts~
 6~M~stix_robot~0~What is~my purpose?~
 6~M~stix_alien~0~Messages~from beyond!~
+6~M~stix_sushi~0~Drowning~in soy~
+6~S~stix_taco~0~taco day~

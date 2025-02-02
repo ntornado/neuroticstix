@@ -50,3 +50,5 @@
 6~M~stix_poop~0~hang in~there~
 6~M~stix_bed~0~Time to~dream~
 6~M~stix_lizard~0~so very~happy~
+6~M~stix_zen~96~Breathe and~just be~
+6~S~stix_sushi~0~Sushi joy~

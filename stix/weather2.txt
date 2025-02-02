@@ -50,3 +50,4 @@
 6~M~stix_unicorn_head~0~Sparkles!~And chaos!~
 6~Q~stix_fetal~0~Zzz...~
 6~X~stix_emote_shirt~0~So~Much~Feel~~~
+6~S~stix_sushi~0~fishy day~

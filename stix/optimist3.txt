@@ -50,3 +50,5 @@
 6~M~stix_koala~0~too cute~to do work~
 6~M~stix_koala~0~Eucalyptus~vibes!~
 6~M~stix_rabbit~0~Bouncing is~my style~
+6~Q~stix_zen~65~relax~
+6~S~stix_sushi~0~delicious~

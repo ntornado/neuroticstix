@@ -50,3 +50,6 @@
 6~Q~stix_island~21~Relaxed~
 6~M~stix_vampire~0~take a~bite~
 6~M~stix_island~21~Island~brain~
+6~M~stix_sushi~0~Wasabi~power~
+6~S~stix_zen~98~good vibes~
+6~Q~stix_zen~96~ommmmm~

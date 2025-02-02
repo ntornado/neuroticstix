@@ -50,3 +50,5 @@
 6~Q~stix_island~21~Relaxed~
 6~Q~stix_parrot~0~Weird!~
 6~M~stix_cute_cat~0~Let’s not~discuss it~
+6~M~stix_fetal~0~angsty~day~
+6~M~stix_sushi~0~Wasabi~power~

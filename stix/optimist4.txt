@@ -50,3 +50,5 @@
 6~M~stix_island~5~Soak in~the sun~
 6~M~stix_poop~0~it's gonna~be fine~
 6~X~stix_emote_shirt~0~So~Much~Feel~~~
+6~M~stix_vr~4~Virtual~Wonder~
+6~M~stix_zen~97~Meditate~to the beat~
