@@ -51,3 +51,4 @@
 6~Q~stix_cute_alien~0~bleep!~
 6~X~stix_black_shirt~0~Crazy~Times~~~~
 6~Q~stix_zen~96~ommmmm~
+6~M~stix_earth~0~here is~weather~

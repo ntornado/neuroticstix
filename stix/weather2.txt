@@ -51,3 +51,5 @@
 6~Q~stix_fetal~0~Zzz...~
 6~X~stix_emote_shirt~0~So~Much~Feel~~~
 6~S~stix_sushi~0~fishy day~
+6~M~stix_earth~0~have some~weather~
+6~M~stix_zen~96~your~forecast~

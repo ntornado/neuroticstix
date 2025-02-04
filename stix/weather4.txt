@@ -51,3 +51,4 @@
 6~M~stix_gas~0~a strange~message~
 6~M~stix_cute_alien~0~takeover is~imminent~
 6~Q~stix_zen~65~relax~
+6~M~stix_earth~0~have a~forecast~
