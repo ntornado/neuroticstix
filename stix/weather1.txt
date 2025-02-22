@@ -52,3 +52,4 @@
 6~X~stix_black_shirt~0~Crazy~Times~~~~
 6~Q~stix_zen~96~ommmmm~
 6~M~stix_earth~0~here is~weather~
+6~Q~stix_sushi~0~mmm...~

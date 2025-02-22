@@ -52,3 +52,4 @@
 6~M~stix_rabbit~0~Bouncing is~my style~
 6~Q~stix_zen~65~relax~
 6~S~stix_sushi~0~delicious~
+6~M~stix_egg~0~Egg-cellent~sticker~

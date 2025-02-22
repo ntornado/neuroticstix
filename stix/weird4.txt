@@ -53,3 +53,5 @@
 6~Q~stix_parrot~0~Weird!~
 6~M~stix_robot~0~Awkwardity~detected!~
 6~Q~stix_vr~0~Oops!~
+6~M~stix_egg~0~Hello~world!~
+6~M~stix_zen~97~Float like~a jellybean~

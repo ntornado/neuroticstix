@@ -51,3 +51,5 @@
 6~Q~stix_vampire~0~I suck~
 6~M~stix_dumpster~0~So much~chaos!~
 6~M~stix_fish~0~Fishy~mood~
+6~Q~stix_egg~0~broke~
+6~M~stix_poop~0~Oops I did~it again~

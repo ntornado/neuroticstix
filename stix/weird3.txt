@@ -53,3 +53,4 @@
 6~M~stix_alien~0~Messages~from beyond!~
 6~M~stix_sushi~0~Drowning~in soy~
 6~S~stix_taco~0~taco day~
+6~S~stix_egg~0~struttin'~
