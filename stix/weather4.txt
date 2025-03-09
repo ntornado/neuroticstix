@@ -53,3 +53,4 @@
 6~Q~stix_zen~65~relax~
 6~M~stix_earth~0~have a~forecast~
 6~M~stix_egg~0~feelin'~fine~
+6~S~stix_cute_alien~0~be present~

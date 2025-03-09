@@ -53,3 +53,4 @@
 6~S~stix_sushi~0~fishy day~
 6~M~stix_earth~0~have some~weather~
 6~M~stix_zen~96~your~forecast~
+6~S~stix_heart~22~fabulous~

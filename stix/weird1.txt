@@ -54,3 +54,5 @@
 6~M~stix_gas~0~a strange~message~
 6~M~stix_sushi~0~I'm not~fishy~
 6~M~stix_taco~0~Explain like~I'm a taco~
+6~M~stix_parrot~0~Polly wants~a password~
+6~M~stix_drown~33~Siri, call a~lifeguard~

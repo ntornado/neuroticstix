@@ -54,3 +54,5 @@
 6~X~stix_black_shirt~0~Crazy~Times~~~~
 6~S~stix_sushi~0~Sushi day~
 6~Q~stix_sushi~0~mmm...~
+6~S~stix_mouse~0~big cheese~
+6~M~stix_drown~49~Am I doing~this right?~

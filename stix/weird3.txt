@@ -54,3 +54,5 @@
 6~M~stix_sushi~0~Drowning~in soy~
 6~S~stix_taco~0~taco day~
 6~S~stix_egg~0~struttin'~
+6~M~stix_drown~20~I needed~a bath~
+6~S~stix_drown~5~Fish food~

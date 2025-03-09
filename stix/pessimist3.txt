@@ -53,3 +53,4 @@
 6~M~stix_fish~0~Fishy~mood~
 6~Q~stix_egg~0~broke~
 6~M~stix_poop~0~Oops I did~it again~
+6~Q~stix_drown~16~Oops~

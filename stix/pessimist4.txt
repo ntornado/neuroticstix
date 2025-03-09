@@ -53,3 +53,6 @@
 6~S~stix_sushi~0~fishy day~
 6~V~stix_device~0~why~me?~~~~
 6~M~stix_egg~0~not quite~ready...~
+6~Q~stix_dumpster~2~a mess~
+6~M~stix_drown~4~wasn't in~the brochure~
+6~Q~stix_drown~22~Help~

@@ -4,7 +4,7 @@
 6~M~stix_normal~2~here's some~weather~
 6~M~stix_creature~0~NO more~asteroids~
 6~R~Rainbow~0~
-6~C~stix_computer~0~forecast~is blurry~~~~
+6~C~stix_computer~0~forecast~is~blurry~~~
 6~M~stix_zombie~0~broccoli~day~
 6~S~stix_tornado~0~avenge me!~
 6~M~stix_tornado~0~neurotic~tornado~
