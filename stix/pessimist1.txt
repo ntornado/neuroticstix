@@ -14,7 +14,7 @@
 6~B~stix_book~0~The Book~of My~Failures~~~
 6~C~stix_computer~0~democracy~needs some~debugging~~~
 6~M~stix_fetal~0~it's going~great!~
-6~X~stix_shirt~0~it's~my~fault~~~
+6~X~stix_shirt~0~it's my~fault~~~~
 6~B~stix_black_book~0~I'm~Sorry~-a memoir-~~~
 6~M~stix_desk~0~away from~keyboard~
 6~M~stix_robot~0~humans...~am I right?~
