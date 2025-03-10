@@ -28,7 +28,7 @@
 6~S~stix_earth~0~I'll wait~
 6~O~stix_stop~0~be nice~~~
 6~M~stix_shark~0~some days~bite~
-6~M~stix_heart~2~it's ~complicated~
+6~M~stix_heart~2~it's~complicated~
 6~M~stix_blank~0~Today I feel~invisible~
 6~S~stix_cars~0~out of gas~
 6~M~stix_tornado~0~stop~staring~
