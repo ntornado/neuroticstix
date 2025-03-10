@@ -16,7 +16,7 @@
 6~M~stix_zombie~0~broccoli~day~
 6~S~stix_tornado~0~avenge me!~
 6~M~stix_dog~0~what did~you expect?~
-6~M~stix_dog~0~bark~atcha~
+6~S~stix_dog~0~bark atcha~
 6~M~stix_kitty~0~kibble~substandard~
 6~X~stix_shirt~0~don't~dress~up~~~
 6~M~stix_alien~0~humans~are strange~
