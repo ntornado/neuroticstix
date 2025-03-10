@@ -10,7 +10,7 @@
 6~M~stix_unicorn_head~0~you think~you're real?~
 6~M~stix_schnauzer~0~here comes~trouble~
 6~B~stix_black_book~0~Great~Truths~~~~
-6~X~stix_black_shirt~0~I~hate~shirts~~~
+6~X~stix_black_shirt~0~I hate~shirts~~~~
 6~M~stix_oops~0~what did~I do wrong?~
 6~M~stix_people~0~I didn't~do it~
 6~M~stix_zombie~0~broccoli~day~

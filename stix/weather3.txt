@@ -38,7 +38,7 @@
 6~M~stix_creature~0~dinosaur~breath~
 6~M~stix_schnauzer~0~here comes~trouble~
 6~B~stix_black_book~0~Great~Truths~~~~
-6~X~stix_black_shirt~0~I~hate~shirts~~~
+6~X~stix_black_shirt~0~I hate~shirts~~~~
 6~M~stix_earth~0~weather joke~goes here~
 6~R~Cloud~0~
 6~R~Over~0~

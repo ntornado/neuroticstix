@@ -16,7 +16,7 @@
 6~B~stix_book~0~writings~about~writers~writing~~
 6~D~stix_black_record~0~songs~about songs~~~
 6~M~stix_rabbit~0~not magic...~I live here~
-6~X~stix_shirt~0~I~hate~shirts~~~
+6~X~stix_black_shirt~0~no more~shirts~~~~
 6~Q~stix_kitty~0~bark~
 6~M~stix_schnauzer~0~it's raining~mice & geese~
 6~M~stix_toilet~0~the driver's~seat~
