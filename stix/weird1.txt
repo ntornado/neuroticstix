@@ -27,7 +27,7 @@
 6~B~stix_book~0~The secret~to life is~%]#]#{}%^~~~
 6~C~stix_computer~0~get off~your~device!~~~
 6~B~stix_book~0~this~is not~a book~~~
-6~X~stix_black_shirt~0~I'm ~the~weirdo~~~
+6~X~stix_black_shirt~0~I’m the~weirdo~~~~
 6~X~stix_shirt~0~I like~shirt~~~~
 6~M~stix_rabbit~0~looking for~a roommate~
 6~B~stix_book~0~I'm trying~to write a~novel but...~-a memoir-~~
