@@ -30,7 +30,7 @@
 6~Q~stix_blank~0~Yes!~
 6~M~stix_unicorn_head~0~you are~beautiful~
 6~Q~stix_sign~6~😜😭😱🫠😍❤️!~
-6~C~stix_computer~0~humans,~be nice!~~~~
+6~C~stix_computer~0~humans,~be~nice!~~~
 6~M~stix_scientist~0~I discovered~the secret!~
 6~S~stix_earth~0~I'll wait~
 6~O~stix_stop~0~yay!~~~
