@@ -19,7 +19,7 @@
 6~S~stix_dog~0~bark atcha~
 6~M~stix_kitty~0~kibble~substandard~
 6~X~stix_shirt~0~don't~dress~up~~~
-6~M~stix_alien~0~humans~are strange~
+6~M~stix_alien~0~humans are~strange~
 6~M~stix_tornado~0~neurotic~tornado~
 6~M~stix_robot~0~some days~are so 10101~
 6~Q~stix_schnauzer~0~meow~
@@ -29,9 +29,9 @@
 6~B~stix_book~0~this~is not~a book~~~
 6~X~stix_black_shirt~0~I'm ~the~weirdo~~~
 6~X~stix_shirt~0~I like~shirt~~~~
-6~M~stix_rabbit~0~looking for~a roommate ~
+6~M~stix_rabbit~0~looking for~a roommate~
 6~B~stix_book~0~I'm trying~to write a~novel but...~-a memoir-~~
-6~M~stix_robot~0~I'm not a~robot~
+6~M~stix_robot~0~I’m not~a robot~
 6~R~Complicated~0~
 6~X~stix_emote_shirt~0~I~could~fix~it~~
 6~M~stix_scientist~0~it's just~a theory~
@@ -42,11 +42,11 @@
 6~M~stix_fish~0~don't love~to swim~
 6~S~stix_pants~0~Leg day!~
 6~Q~stix_desk~0~Create!~
-6~M~stix_pants~0~Pants Gone~Wild~
+6~M~stix_pants~0~pants~gone wild~
 6~X~stix_emote_shirt~0~I~REGRET~A FEW~THINGS~~
 6~M~stix_mouse~0~Where's~the cheese?~
 6~Q~stix_cute_alien~0~bleep!~
-6~M~stix_taco~0~sassy~is my thing~
+6~M~stix_taco~0~sassy is~my thing~
 6~M~stix_unicorn_head~0~Sparkles!~And chaos!~
 6~Q~stix_poop~0~cool~
 6~M~stix_dumpster~0~smell the~roses!~
@@ -55,4 +55,4 @@
 6~M~stix_sushi~0~I'm not~fishy~
 6~M~stix_taco~0~Explain like~I'm a taco~
 6~M~stix_parrot~0~Polly wants~a password~
-6~M~stix_drown~33~Siri, call a~lifeguard~
+6~M~stix_drown~0~Siri, call~a lifeguard!~
