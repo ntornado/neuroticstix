@@ -55,3 +55,8 @@
 6~Q~stix_egg~0~cracked~
 6~M~stix_fetal~0~very stable~genius~
 6~M~stix_drown~20~I need a~bigger boat~
+6~M~stix_mouse~0~The cheese~is a lie~
+6~S~stix_drown~34~Great idea~
+6~M~stix_vampire~16~Bite-sized~wickedness~
+6~M~stix_poop~0~Poop~happens~
+6~M~stix_normal~21~be more~funny!~

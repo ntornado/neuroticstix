@@ -55,3 +55,6 @@
 6~M~stix_sushi~0~have a~forecast~
 6~M~stix_zen~96~your~weather~
 6~M~stix_egg~0~Hello~world!~
+6~S~stix_drown~34~Great idea~
+6~Q~stix_drown~32~ironic~
+6~M~stix_dumpster~0~laundry~day~

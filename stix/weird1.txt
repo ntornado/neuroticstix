@@ -56,3 +56,9 @@
 6~M~stix_taco~0~Explain like~I'm a taco~
 6~M~stix_parrot~0~Polly wants~a password~
 6~M~stix_drown~0~Siri, call~a lifeguard!~
+6~S~stix_schnauzer~0~you're odd~
+6~S~stix_normal~32~Odd, huh?~
+6~M~stix_toilet~0~Flush and~forget~
+6~S~stix_banana~0~bananas!~
+6~S~stix_taco~0~Funny taco~
+6~M~stix_pants~0~Existential~pants!~

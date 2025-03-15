@@ -54,4 +54,8 @@
 6~S~stix_zen~98~good vibes~
 6~Q~stix_zen~96~ommmmm~
 6~S~stix_egg~0~thank you!~
-6~M~stix_egg~0~some day~I'll fly~
+6~M~stix_parrot~0~Polly wants~more...~
+6~Q~stix_vampire~17~Sweet~
+6~M~stix_taco~0~A tasty~paradox~
+6~M~stix_normal~20~Odd &~delightful~
+6~M~stix_taco~0~A taco~is born!~

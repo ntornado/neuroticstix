@@ -55,3 +55,6 @@
 6~Q~stix_egg~0~Save me~
 6~Q~stix_fetal~0~yep~
 6~S~stix_drown~16~I'm fine~
+6~S~stix_drown~4~Glub glub~
+6~Q~stix_poop~0~crappy~
+6~M~stix_poop~0~Poop~happens~

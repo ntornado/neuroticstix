@@ -54,3 +54,7 @@
 6~M~stix_earth~0~have some~weather~
 6~M~stix_zen~96~your~forecast~
 6~S~stix_heart~22~fabulous~
+6~M~stix_egg~0~some day~I'll fly~
+6~S~stix_cute_alien~0~be present~
+6~Q~stix_dumpster~20~fun!~
+6~S~stix_heart~22~fabulous~

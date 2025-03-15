@@ -54,3 +54,7 @@
 6~M~stix_earth~0~have a~forecast~
 6~M~stix_egg~0~feelin'~fine~
 6~S~stix_cute_alien~0~be present~
+6~M~stix_pants~0~Existential~pants!~
+6~S~stix_banana~0~bananas!~
+6~S~stix_pants~0~that's odd~
+6~C~stix_computer~0~Error:~Weird~Humor~~~

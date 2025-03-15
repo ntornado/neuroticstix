@@ -33,7 +33,7 @@
 6~M~stix_alien~0~you're~the alien~
 6~B~stix_scroll~0~my other~scroll is~an iPhone~~~
 6~Q~stix_rabbit~0~poof!~
-6~V~stix_device~0~device~on~ice ~~~
+6~V~stix_device~0~device~on~ice~~~
 6~M~stix_scientist~0~and u think~I'M mad!...~
 6~S~stix_gas~0~small bang~
 6~S~stix_banana~0~don't fall~
@@ -56,3 +56,7 @@
 6~M~stix_egg~0~Hello~world!~
 6~M~stix_zen~97~Float like~a jellybean~
 6~S~stix_drown~22~swimmingly~
+6~Q~stix_normal~6~Huh?~
+6~Q~stix_pants~0~baggy~
+6~M~stix_taco~0~not what~you think!~
+6~C~stix_computer~0~Error:~Weird~Humor~~~

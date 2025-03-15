@@ -56,3 +56,9 @@
 6~S~stix_egg~0~struttin'~
 6~M~stix_drown~20~I needed~a bath~
 6~S~stix_drown~5~Fish food~
+6~M~stix_cute_alien~0~Hug me~or else~
+6~M~stix_alien~0~Bizarre~is nice~
+6~X~stix_black_shirt~0~Odd~but~cute~~~
+6~M~stix_dumpster~49~Burning~questions~
+6~Q~stix_lizard~0~hmm...~
+6~S~stix_pants~0~that's odd~

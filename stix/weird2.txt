@@ -56,3 +56,9 @@
 6~Q~stix_sushi~0~mmm...~
 6~S~stix_mouse~0~big cheese~
 6~M~stix_drown~49~Am I doing~this right?~
+6~M~stix_mouse~0~Cheese~is life~
+6~O~stix_sticker~0~Keep Stix~Weird~~
+6~B~stix_scroll~0~A~Funny~Twist~~~
+6~M~stix_vampire~16~Bite-sized~wickedness~
+6~M~stix_normal~21~Brevity~is... weird!~
+6~Q~stix_sushi~0~strange~

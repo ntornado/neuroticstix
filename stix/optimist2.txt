@@ -54,3 +54,8 @@
 6~S~stix_sushi~0~Sushi joy~
 6~M~stix_egg~0~Cracking~up!~
 6~S~stix_heart~22~fabulous~
+6~S~stix_kitty~0~precious~
+6~S~stix_koala~0~hug a lot~
+6~S~stix_taco~0~more salsa~
+6~S~stix_pants~0~So cheeky~
+6~S~stix_banana~0~Peel good~

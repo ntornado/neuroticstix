@@ -56,3 +56,6 @@
 6~Q~stix_dumpster~2~a mess~
 6~M~stix_drown~4~wasn't in~the brochure~
 6~Q~stix_drown~22~Help~
+6~M~stix_dumpster~48~Burning~with irony~
+6~S~stix_creature~0~extincty~
+6~S~stix_poop~0~messed up!~

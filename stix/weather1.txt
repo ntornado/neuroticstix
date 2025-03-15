@@ -54,3 +54,7 @@
 6~M~stix_earth~0~here is~weather~
 6~Q~stix_sushi~0~mmm...~
 6~M~stix_egg~0~is it nice~out there?~
+6~M~stix_taco~0~A taco~is born!~
+6~M~stix_normal~20~Odd &~delightful~
+6~M~stix_taco~0~A tasty~paradox~
+6~Q~stix_vampire~17~Sweet~
