@@ -54,3 +54,4 @@
 6~Q~stix_egg~0~broke~
 6~M~stix_poop~0~Oops I did~it again~
 6~Q~stix_drown~16~Oops~
+6~M~stix_dumpster~0~laundry~day~

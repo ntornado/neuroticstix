@@ -18,7 +18,7 @@
 6~C~stix_computer~0~what is~artificial~about me?~~~
 6~B~stix_emote_book~0~It is~OK!~~~~
 6~M~stix_guitar~4~stay~foolish~
-6~M~stix_blank~0~imagine~it~
+6~S~stix_blank~0~imagine it~
 6~B~stix_scroll~0~I will try~something~new today~~~
 6~M~stix_heart~6~I like~nice people~
 6~C~stix_computer~0~-   *~*~\_____/~~~
