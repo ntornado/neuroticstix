@@ -22,7 +22,7 @@
 6~C~stix_computer~0~find~stillness,~then begin~~~
 6~M~stix_bed~0~appreciate~today~
 6~C~stix_computer~0~do the~work~~~~
-6~B~stix_black_book~0~first~day of~next~chapter~~
+6~B~stix_black_book~0~first day~of next~chapter~~~
 6~X~stix_shirt~0~ask me~about~my~shirt~~
 6~M~stix_unicorn_head~0~it's~possible~
 6~M~stix_normal~6~I'm Ok~You're OK~

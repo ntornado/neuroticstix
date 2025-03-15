@@ -1,7 +1,7 @@
 6~M~stix_shark~0~some days~bite~
 6~M~stix_heart~2~it's~complicated~
 6~M~stix_guitar~1~harder than~I thought 🎶~
-6~D~stix_black_record~0~my messy~life~and other~songs~
+6~D~stix_black_record~0~my messy~life~and~other songs~
 6~M~stix_toilet~0~now my legs~are numb~
 6~M~stix_blank~0~Today I feel~invisible~
 6~S~stix_cars~0~out of gas~
