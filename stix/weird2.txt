@@ -28,7 +28,7 @@
 6~M~stix_bed~0~dreaming of~bad drawings~
 6~B~stix_scroll~0~ye~olde~school~~~
 6~M~stix_robot~0~I'm quality~assurance~
-6~M~stix_upsidedown~0~peek a~boo~
+6~S~stix_upsidedown~0~peek a boo~
 6~B~stix_book~0~I HATE~ALL CAPS~-a memoir-~~~
 6~C~stix_computer~0~10 breathe~20 goto 10~30 umm...?~~~
 6~M~stix_schnauzer~0~eat the~roses~
