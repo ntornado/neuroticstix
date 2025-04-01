@@ -12,7 +12,7 @@
 6~S~stix_dog~0~I ❤️ cats~
 6~B~stix_book~0~I HATE~ALL CAPS~-a memoir-~~~
 6~M~stix_gas~0~bleep~bloop~
-6~M~stix_toilet~0~safe~haven~
+6~S~stix_toilet~0~safe haven~
 6~B~stix_book~0~words are~important~~~~
 6~M~stix_gas~0~you're a~star~
 6~S~stix_unicorn_head~0~sparkle!~

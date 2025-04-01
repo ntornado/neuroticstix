@@ -33,7 +33,7 @@
 6~C~stix_computer~0~10 breathe~20 goto 10~30 umm...?~~~
 6~M~stix_schnauzer~0~eat the~roses~
 6~M~stix_blank~0~I am not~invisible~
-6~M~stix_toilet~0~safe~haven~
+6~S~stix_toilet~0~safe haven~
 6~Q~stix_scientist~0~🤪😱🫠~
 6~X~stix_black_shirt~0~like~at~first~sight~~
 6~M~stix_scientist~0~dating app 4~mad geniuses~
