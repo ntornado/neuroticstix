@@ -25,7 +25,7 @@
 6~R~Heart~0~
 6~M~stix_gas~0~can you~hear me?~
 6~Q~stix_earth~0~my day~
-6~M~stix_creature~0~Good hair~day~
+6~M~stix_creature~0~Good~hair day~
 6~Q~stix_scientist~0~oops~
 6~C~stix_computer~0~kinda~sorta~~~~
 6~Q~stix_bed~0~snooze~

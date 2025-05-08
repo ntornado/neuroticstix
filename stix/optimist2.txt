@@ -35,7 +35,7 @@
 6~M~stix_bike~0~the courage~to continue~
 6~M~stix_gas~0~can you~hear me?~
 6~Q~stix_earth~0~my day~
-6~M~stix_creature~0~Good hair~day~
+6~M~stix_creature~0~Good~hair day~
 6~M~stix_scientist~4~it's just a~hypothesis~
 6~X~stix_emote_shirt~0~tell~me~more~~~
 6~S~stix_sun~0~wake up!~
