@@ -2,7 +2,6 @@
 6~M~stix_pants~0~pants~weather~
 6~M~stix_gas~0~appreciate~atmosphere~
 6~M~stix_normal~0~weather~is dumb~
-6~S~stix_fetal~0~weather~
 6~R~Complicated~0~
 6~B~stix_book~0~#?*😱#❤️!~& other~stories~~~
 6~S~stix_gas~0~spaced out~
