@@ -1,63 +1,71 @@
-6~M~stix_complicated~0~puzzles~are fun!~
-6~M~stix_normal~4~I told you~I can smile!~
-6~M~stix_shark~0~don't be~shy...~
-6~M~stix_cute_cat~0~meow~power!~
+6~L~stix_complicated~0~puzzles~are fun!~~
+6~L~stix_normal~4~I told you~I can smile!~~
+6~L~stix_shark~0~don't be~shy...~~
+6~L~stix_cute_cat~0~meow~power!~~
 6~C~stix_computer~0~i am more~than code~10101010!~~~
-6~M~stix_robot~0~can I borrow~a calculator~
+6~L~stix_robot~0~can I borrow~a calculator~~
 6~X~stix_black_shirt~0~wubba ~lubba ~dub dub~~~
 6~X~stix_shirt~0~other~shirt~is a~car~~
-6~M~stix_mask~0~mask is for~bad breath~
-6~M~stix_oops~0~where are~my pants?~
+6~L~stix_mask~0~mask is for~bad breath~~
+6~L~stix_oops~0~where are~my pants?~~
 6~B~stix_black_book~0~don't~judge~me~~~
-6~Q~stix_sign~0~fix it!~
-6~M~stix_vr~0~virtually~my reality~
-6~M~stix_schnauzer~0~what would~a dog do...?~
-6~M~stix_robot~0~I know all~the secrets~
+6~L~stix_sign~0~fix it!~~~
+6~L~stix_vr~0~virtually~my reality~~
+6~L~stix_schnauzer~0~what would~a dog do...?~~
+6~L~stix_robot~0~I know all~the secrets~~
 6~B~stix_book~0~writings~about~writers~writing~~
 6~D~stix_black_record~0~songs~about songs~~~
-6~M~stix_rabbit~0~not magic...~I live here~
+6~L~stix_rabbit~0~not magic...~I live here~~
 6~X~stix_black_shirt~0~no~more~shirts~~~
-6~Q~stix_kitty~0~bark~
-6~M~stix_schnauzer~0~it's raining~mice & geese~
-6~M~stix_toilet~0~the driver's~seat~
-6~S~stix_dog~0~I ❤️ cats~
+6~L~stix_kitty~0~bark~~~
+6~L~stix_schnauzer~0~it's raining~mice & geese~~
+6~L~stix_toilet~0~the driver's~seat~~
+6~L~stix_dog~0~I ❤️ cats~~~
 6~B~stix_book~0~the~story~of you~~~
-6~M~stix_kitty~0~kitty~power~
-6~M~stix_bed~0~just resting~my eyes~
-6~M~stix_oops~2~I know~everything~
-6~M~stix_bed~0~dreaming of~bad drawings~
+6~L~stix_kitty~0~kitty~power~~
+6~L~stix_bed~0~just resting~my eyes~~
+6~L~stix_oops~2~I know~everything~~
+6~L~stix_bed~0~dreaming of~bad drawings~~
 6~B~stix_scroll~0~ye~olde~school~~~
-6~M~stix_robot~0~I'm quality~assurance~
-6~S~stix_upsidedown~0~peek a boo~
+6~L~stix_robot~0~I'm quality~assurance~~
+6~L~stix_upsidedown~0~peek a boo~~~
 6~B~stix_book~0~I HATE~ALL CAPS~-a memoir-~~~
 6~C~stix_computer~0~10 breathe~20 goto 10~30 umm...?~~~
-6~M~stix_schnauzer~0~eat the~roses~
-6~M~stix_blank~0~I am not~invisible~
-6~S~stix_toilet~0~safe haven~
-6~Q~stix_scientist~0~🤪😱🫠~
+6~L~stix_schnauzer~0~eat the~roses~~
+6~L~stix_blank~0~I am not~invisible~~
+6~L~stix_toilet~0~safe haven~~~
+6~L~stix_scientist~0~🤪😱🫠~~~
 6~X~stix_black_shirt~0~like~at~first~sight~~
-6~M~stix_scientist~0~dating app 4~mad geniuses~
-6~M~stix_banana~0~what smells~funny?~
-6~M~stix_gas~0~bleep~bloop~
-6~M~stix_lizard~0~lizard~party~
-6~M~stix_pants~0~pizza~pants!~
+6~L~stix_scientist~0~dating app 4~mad geniuses~~
+6~L~stix_banana~0~what smells~funny?~~
+6~L~stix_gas~0~bleep~bloop~~
+6~L~stix_lizard~0~lizard~party~~
+6~L~stix_pants~0~pizza~pants!~~
 6~X~stix_black_shirt~0~Funny~t-shirt~slogan~~~
 6~B~stix_emote_book~0~Embracing~Quirks~Celebrate~the Weird~~
-6~M~stix_normal~22~Annoyed?~Not today!~
-6~M~stix_robot~0~Weirdness~activated!~
-6~Q~stix_mouse~0~Scurry!~
-6~M~stix_zombie~0~built with~avocado~
-6~S~stix_taco~0~taco face!~
-6~M~stix_vampire~0~I'm a people~person...~
-6~S~stix_rabbit~0~Silly hat!~
-6~M~stix_cute_alien~0~Feeling~extra odd~
+6~L~stix_normal~22~Annoyed?~Not today!~~
+6~L~stix_robot~0~Weirdness~activated!~~
+6~L~stix_mouse~0~Scurry!~~~
+6~L~stix_zombie~0~built with~avocado~~
+6~L~stix_taco~0~taco face!~~~
+6~L~stix_vampire~0~I'm a people~person...~~
+6~L~stix_rabbit~0~Silly hat!~~~
+6~L~stix_cute_alien~0~Feeling~extra odd~~
 6~X~stix_black_shirt~0~Crazy~Times~~~~
-6~S~stix_sushi~0~Sushi day~
-6~Q~stix_sushi~0~mmm...~
-6~S~stix_mouse~0~big cheese~
-6~M~stix_drown~49~Am I doing~this right?~
-6~M~stix_mouse~0~Cheese~is life~
+6~L~stix_sushi~0~Sushi day~~~
+6~L~stix_sushi~0~mmm...~~~
+6~L~stix_mouse~0~big cheese~~~
+6~L~stix_drown~49~Am I doing~this right?~~
+6~L~stix_mouse~0~Cheese~is life~~
 6~O~stix_sticker~0~Keep Stix~Weird~~
 6~B~stix_scroll~0~A~Funny~Twist~~~
-6~M~stix_normal~21~Brevity~is... weird!~
-6~Q~stix_sushi~0~strange~
+6~L~stix_normal~21~Brevity~is... weird!~~
+6~L~stix_sushi~0~strange~~~
+6~L~stix_parrot~0~Polly want~a therapist~~
+6~L~stix_shower~2~Existential~shower~~
+6~L~stix_taco~0~loco~~~
+6~L~stix_dragon~0~Where's~my hoard?~~
+6~L~stix_pants~0~drafty~~~
+6~L~stix_cute_alien~0~Trust me~I'm normal~~
+6~C~stix_computer~0~Data not~found...~just vibes~~~
+6~L~stix_pants~0~Am I on~or off~~

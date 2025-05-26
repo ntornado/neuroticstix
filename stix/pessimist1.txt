@@ -1,62 +1,67 @@
-6~M~stix_shark~0~some days~bite~
-6~M~stix_heart~2~it's~complicated~
-6~M~stix_guitar~1~harder than~I thought 🎶~
+6~L~stix_shark~0~some days~bite~~
+6~L~stix_heart~2~it's~complicated~~
+6~L~stix_guitar~1~harder than~I thought 🎶~~
 6~D~stix_black_record~0~my messy~life~and~other songs~
-6~M~stix_toilet~0~now my legs~are numb~
-6~M~stix_blank~0~Today I feel~invisible~
-6~S~stix_cars~0~out of gas~
-6~M~stix_tornado~0~stop~staring~
-6~M~stix_bed~0~one more~snooze~
-6~M~stix_robot~0~humans~smell weird~
+6~L~stix_toilet~0~now my legs~are numb~~
+6~L~stix_blank~0~Today I feel~invisible~~
+6~L~stix_cars~0~out of gas~~~
+6~L~stix_tornado~0~stop~staring~~
+6~L~stix_bed~0~one more~snooze~~
+6~L~stix_robot~0~humans~smell weird~~
 6~C~stix_computer~0~\    /~*~/----\~~~
 6~C~stix_computer~0~does~not~compute~~~
-6~M~stix_bed~0~stuck in~bed today~
+6~L~stix_bed~0~stuck in~bed today~~
 6~B~stix_book~0~The Book~of My~Failures~~~
 6~C~stix_computer~0~democracy~needs some~debugging~~~
-6~M~stix_fetal~0~it's going~great!~
+6~L~stix_fetal~0~it's going~great!~~
 6~X~stix_shirt~0~it's my~fault~~~~
 6~B~stix_black_book~0~I'm~Sorry~-a memoir-~~~
-6~M~stix_desk~0~away from~keyboard~
-6~M~stix_robot~0~humans...~am I right?~
-6~M~stix_desk~0~duck & cover~for the win~
-6~M~stix_toilet~0~is it~over yet?~
-6~M~stix_tornado~0~things are~totally fine~
-6~Q~stix_bed~0~bleh~
-6~M~stix_fetal~0~anxiety~day~
-6~M~stix_desk~0~preparing 4~the big one~
+6~L~stix_desk~0~away from~keyboard~~
+6~L~stix_robot~0~humans...~am I right?~~
+6~L~stix_desk~0~duck & cover~for the win~~
+6~L~stix_toilet~0~is it~over yet?~~
+6~L~stix_tornado~0~things are~totally fine~~
+6~L~stix_bed~0~bleh~~~
+6~L~stix_fetal~0~anxiety~day~~
+6~L~stix_desk~0~preparing 4~the big one~~
 6~B~stix_book~0~Oopsy~~a memoir~~~
-6~M~stix_people~0~disconnected~~
-6~Q~stix_oops~1~oh well~
-6~S~stix_fetal~0~lovin' it~
+6~L~stix_people~0~disconnected~~~
+6~L~stix_oops~1~oh well~~~
+6~L~stix_fetal~0~lovin' it~~~
 6~R~Me~0~
-6~M~stix_upsidedown~0~can I come~out now?~
-6~M~stix_robot~0~humans~scare me~
-6~M~stix_creature~0~humans~scare me~
+6~L~stix_upsidedown~0~can I come~out now?~~
+6~L~stix_robot~0~humans~scare me~~
+6~L~stix_creature~0~humans~scare me~~
 6~B~stix_emote_book~0~-ish~~a memoir~~~
-6~M~stix_scientist~0~I have trust~issues...~
-6~Q~stix_bubble~0~no~
-6~S~stix_earth~0~sooo hot!~
-6~S~stix_normal~16~why now?~
-6~S~stix_banana~0~mushy day~
-6~S~stix_crutches~0~sooo tired~
-6~S~stix_lizard~0~slithery~
-6~M~stix_bed~0~Need a~break~
-6~M~stix_pants~0~Bummed~out pants~
-6~Q~stix_headache~2~Ugh~
-6~M~stix_sad~16~Downer~episode~
+6~L~stix_scientist~0~I have trust~issues...~~
+6~L~stix_bubble~0~no~~~
+6~L~stix_earth~0~sooo hot!~~~
+6~L~stix_normal~16~why now?~~~
+6~L~stix_banana~0~mushy day~~~
+6~L~stix_crutches~0~sooo tired~~~
+6~L~stix_lizard~0~slithery~~~
+6~L~stix_bed~0~Need a~break~~
+6~L~stix_pants~0~Bummed~out pants~~
+6~L~stix_headache~2~Ugh~~~
+6~L~stix_sad~16~Downer~episode~~
 6~X~stix_emote_shirt~0~I~REGRET~EVERY~THING~~
-6~M~stix_mouse~0~Trapped~in this maze~
-6~M~stix_cute_alien~0~takeover is~imminent~
-6~Q~stix_taco~0~oops~
-6~M~stix_dumpster~0~never been~better~
-6~M~stix_taco~0~Just my~luck...~
-6~M~stix_cute_cat~0~Let’s not~discuss it~
-6~M~stix_vr~34~Reality? Who~needs it...~
-6~Q~stix_egg~0~cracked~
-6~M~stix_fetal~0~very stable~genius~
-6~M~stix_drown~20~I need a~bigger boat~
-6~M~stix_mouse~0~The cheese~is a lie~
-6~S~stix_drown~34~Great idea~
-6~M~stix_vampire~16~Bite-sized~wickedness~
-6~M~stix_poop~0~Poop~happens~
-6~M~stix_normal~21~be more~funny!~
+6~L~stix_mouse~0~Trapped~in this maze~~
+6~L~stix_cute_alien~0~takeover is~imminent~~
+6~L~stix_taco~0~oops~~~
+6~L~stix_dumpster~0~never been~better~~
+6~L~stix_taco~0~Just my~luck...~~
+6~L~stix_cute_cat~0~Let’s not~discuss it~~
+6~L~stix_vr~34~Reality? Who~needs it...~~
+6~L~stix_egg~0~cracked~~~
+6~L~stix_fetal~0~very stable~genius~~
+6~L~stix_drown~20~I need a~bigger boat~~
+6~L~stix_mouse~0~The cheese~is a lie~~
+6~L~stix_drown~34~Great idea~~~
+6~L~stix_vampire~16~Bite-sized~wickedness~~
+6~L~stix_poop~0~Poop~happens~~
+6~L~stix_normal~21~be more~funny!~~
+6~L~stix_egg~0~Crack under~the pressure~~
+6~L~stix_shower~2~down the~drain~~
+6~L~stix_dragon~0~Burn it~all down~~
+6~B~stix_book~0~Laughing~At Bad~Choices~~~
+6~X~stix_shirt~0~I can't~decide~meh~~~

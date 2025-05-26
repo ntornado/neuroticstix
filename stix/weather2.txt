@@ -1,60 +1,66 @@
-6~M~stix_earth~0~smells like~weather~
-6~M~stix_shark~0~swimming~weather~
+6~L~stix_earth~0~smells like~weather~~
+6~L~stix_shark~0~swimming~weather~~
 6~X~stix_shirt~0~temp~era~ture~~~
-6~M~stix_kitty~0~I like this~temperature~
+6~L~stix_kitty~0~I like this~temperature~~
 6~B~stix_book~0~adjust~the~temp~~~
 6~R~Confused~0~
 6~R~BetterDays~0~
-6~M~stix_cute_cat~0~meow~power!~
+6~L~stix_cute_cat~0~meow~power!~~
 6~C~stix_computer~0~i am more~than code~10101010!~~~
-6~M~stix_robot~0~I know all~the secrets~
-6~Q~stix_kitty~0~bark~
-6~S~stix_dog~0~I ❤️ cats~
+6~L~stix_robot~0~I know all~the secrets~~
+6~L~stix_kitty~0~bark~~~
+6~L~stix_dog~0~I ❤️ cats~~~
 6~B~stix_book~0~I HATE~ALL CAPS~-a memoir-~~~
-6~M~stix_gas~0~bleep~bloop~
-6~S~stix_toilet~0~safe haven~
+6~L~stix_gas~0~bleep~bloop~~
+6~L~stix_toilet~0~safe haven~~~
 6~B~stix_book~0~words are~important~~~~
-6~M~stix_gas~0~you're~a star~
-6~S~stix_unicorn_head~0~sparkle!~
-6~M~stix_shark~0~take a bite~out of life~
-6~M~stix_oops~4~it's a~YES day~
+6~L~stix_gas~0~you're~a star~~
+6~L~stix_unicorn_head~0~sparkle!~~~
+6~L~stix_shark~0~take a bite~out of life~~
+6~L~stix_oops~4~it's a~YES day~~
 6~X~stix_shirt~0~I~see~you~~~
-6~Q~stix_bike~0~Breathe~
+6~L~stix_bike~0~Breathe~~~
 6~B~stix_scroll~0~today~is the~day~~~
-6~M~stix_rabbit~0~make some~magic~
+6~L~stix_rabbit~0~make some~magic~~
 6~R~Heart~0~
-6~M~stix_gas~0~can you~hear me?~
-6~Q~stix_earth~0~my day~
-6~M~stix_creature~0~Good~hair day~
-6~Q~stix_scientist~0~oops~
+6~L~stix_gas~0~can you~hear me?~~
+6~L~stix_earth~0~my day~~~
+6~L~stix_creature~0~Good~hair day~~
+6~L~stix_scientist~0~oops~~~
 6~C~stix_computer~0~kinda~sorta~~~~
-6~Q~stix_bed~0~snooze~
-6~M~stix_tornado~0~spiralling~time~
-6~M~stix_headache~0~never been~better~
-6~M~stix_schnauzer~0~people are~so bizarre~
-6~Q~stix_desk~0~courage~
+6~L~stix_bed~0~snooze~~~
+6~L~stix_tornado~0~spiralling~time~~
+6~L~stix_headache~0~never been~better~~
+6~L~stix_schnauzer~0~people are~so bizarre~~
+6~L~stix_desk~0~courage~~~
 6~X~stix_black_shirt~0~what~a~week~~~
-6~M~stix_creature~0~feeling~bleh~
-6~M~stix_banana~0~I'm not a~punchline~
-6~M~stix_kitty~0~I don't like~showering~
+6~L~stix_creature~0~feeling~bleh~~
+6~L~stix_banana~0~I'm not a~punchline~~
+6~L~stix_kitty~0~I don't like~showering~~
 6~B~stix_emote_book~0~-ish~~a memoir~~~
-6~S~stix_banana~0~mushy day~
-6~S~stix_normal~16~why now?~
-6~M~stix_sign~21~this sign is~for sale!~
+6~L~stix_banana~0~mushy day~~~
+6~L~stix_normal~16~why now?~~~
+6~L~stix_sign~21~this sign is~for sale!~~
 6~R~Better~0~
-6~M~stix_unicorn_head~0~weather~is weird~
-6~M~stix_fish~0~swimming~weather~
-6~S~stix_fish~0~fishy day~
-6~M~stix_lizard~0~weather~is weird~
+6~L~stix_unicorn_head~0~weather~is weird~~
+6~L~stix_fish~0~swimming~weather~~
+6~L~stix_fish~0~fishy day~~~
+6~L~stix_lizard~0~weather~is weird~~
 6~X~stix_emote_shirt~0~I~REGRET~A FEW~THINGS~~
-6~M~stix_unicorn_head~0~Sparkles!~And chaos!~
-6~Q~stix_fetal~0~Zzz...~
+6~L~stix_unicorn_head~0~Sparkles!~And chaos!~~
+6~L~stix_fetal~0~Zzz...~~~
 6~X~stix_emote_shirt~0~So~Much~Feel~~~
-6~S~stix_sushi~0~fishy day~
-6~M~stix_earth~0~have some~weather~
-6~M~stix_zen~96~your~forecast~
-6~S~stix_heart~22~fabulous~
-6~M~stix_egg~0~some day~I'll fly~
-6~Q~stix_dumpster~20~fun!~
-6~Q~stix_pants~0~baggy~
-6~Q~stix_normal~6~Huh?~
+6~L~stix_sushi~0~fishy day~~~
+6~L~stix_earth~0~have some~weather~~
+6~L~stix_zen~96~your~forecast~~
+6~L~stix_heart~22~fabulous~~~
+6~L~stix_egg~0~some day~I'll fly~~
+6~L~stix_dumpster~20~fun!~~~
+6~L~stix_pants~0~baggy~~~
+6~L~stix_normal~6~Huh?~~~
+6~L~stix_shower~16~Rinsing off~another day~~
+6~L~stix_dragon~0~Hatching~new ideas~~
+6~L~stix_zen~98~be here~now~~
+6~X~stix_black_shirt~0~Weird~and~great~~~
+6~C~stix_computer~0~Data not~found...~just vibes~~~
+6~L~stix_island~22~beach hair~don't care~~

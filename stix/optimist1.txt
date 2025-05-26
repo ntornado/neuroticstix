@@ -1,61 +1,70 @@
 6~B~stix_emote_book~0~It is~OK!~~~~
-6~M~stix_bike~0~just one~more hill...~
-6~S~stix_guitar~0~keep cool~
+6~L~stix_bike~0~just one~more hill...~~
+6~L~stix_guitar~0~keep cool~~~
 6~X~stix_black_shirt~0~yay~day~~~~
-6~Q~stix_normal~5~:D~
-6~S~stix_blank~0~imagine it~
+6~L~stix_normal~5~:D~~~
+6~L~stix_blank~0~imagine it~~~
 6~B~stix_scroll~0~I will try~something~new today~~~
-6~M~stix_heart~6~I like~nice people~
-6~M~stix_normal~6~I can do~this today~
+6~L~stix_heart~6~I like~nice people~~
+6~L~stix_normal~6~I can do~this today~~
 6~B~stix_black_book~0~Read~a~Book~~~
-6~M~stix_robot~0~humans~are cute~
+6~L~stix_robot~0~humans~are cute~~
 6~C~stix_computer~0~-   *~*~\_____/~~~
-6~S~stix_alien~0~make it so~
-6~M~stix_people~4~stay~foolish~
+6~L~stix_alien~0~make it so~~~
+6~L~stix_people~4~stay~foolish~~
 6~B~stix_book~0~dwell in~the beauty~of life~~~
-6~Q~stix_heart~6~heart~
+6~L~stix_heart~6~heart~~~
 6~C~stix_computer~0~there is~no secret~to life ~~~
 6~X~stix_black_shirt~0~❤️~💜~🧡~~~
-6~M~stix_heart~5~it's worth~the effort~
-6~M~stix_unicorn_head~0~I believe~in you~
-6~M~stix_tornado~0~I can learn~from this...~
+6~L~stix_heart~5~it's worth~the effort~~
+6~L~stix_unicorn_head~0~I believe~in you~~
+6~L~stix_tornado~0~I can learn~from this...~~
 6~C~stix_computer~0~find~stillness,~then begin~~~
-6~M~stix_bed~0~appreciate~today~
+6~L~stix_bed~0~appreciate~today~~
 6~C~stix_computer~0~do the~work~~~~
 6~B~stix_black_book~0~first day~of next~chapter~~~
 6~X~stix_shirt~0~ask me~about~my~shirt~~
-6~M~stix_unicorn_head~0~it's~possible~
-6~M~stix_normal~6~I'm Ok~You're OK~
-6~Q~stix_heart~6~Happy~
-6~Q~stix_blank~0~Yes!~
-6~M~stix_unicorn_head~0~you are~beautiful~
-6~Q~stix_sign~6~😜😭😱🫠😍❤️!~
+6~L~stix_unicorn_head~0~it's~possible~~
+6~L~stix_normal~6~I'm Ok~You're OK~~
+6~L~stix_heart~6~Happy~~~
+6~L~stix_blank~0~Yes!~~~
+6~L~stix_unicorn_head~0~you are~beautiful~~
+6~L~stix_sign~6~😜😭😱🫠😍❤️!~~~
 6~C~stix_computer~0~humans,~be~nice!~~~
-6~M~stix_scientist~0~I discovered~the secret!~
-6~S~stix_earth~0~I'll wait~
+6~L~stix_scientist~0~I discovered~the secret!~~
+6~L~stix_earth~0~I'll wait~~~
 6~O~stix_stop~0~yay!~~~
-6~M~stix_pants~0~I like~pants!~
-6~S~stix_shark~0~teach me~
+6~L~stix_pants~0~I like~pants!~~
+6~L~stix_shark~0~teach me~~~
 6~O~stix_stop~0~be nice~~~
-6~M~stix_cute_cat~0~keeping it~cute~
-6~M~stix_lizard~0~I love to~read~
-6~M~stix_hand_wave~22~hands in~the air!~
-6~M~stix_schnauzer~0~Woof! Cheer~up, human!~
+6~L~stix_cute_cat~0~keeping it~cute~~
+6~L~stix_lizard~0~I love to~read~~
+6~L~stix_hand_wave~22~hands in~the air!~~
+6~L~stix_schnauzer~0~Woof! Cheer~up, human!~~
 6~X~stix_shirt~0~Happy~day!~~~~
-6~M~stix_unicorn_head~0~Rainbows~and giggles!~
-6~M~stix_rabbit~0~Silly~Surprise~
+6~L~stix_unicorn_head~0~Rainbows~and giggles!~~
+6~L~stix_rabbit~0~Silly~Surprise~~
 6~X~stix_emote_shirt~0~I~REGRET~NOTHING~~~
-6~M~stix_koala~0~Snoozing~is fun!~
-6~M~stix_mouse~0~Tiny but~fierce!~
-6~Q~stix_island~21~Relaxed~
-6~M~stix_vampire~0~take a~bite~
-6~M~stix_island~21~Island~brain~
-6~M~stix_sushi~0~Wasabi~power~
-6~S~stix_zen~98~good vibes~
-6~Q~stix_zen~96~ommmmm~
-6~S~stix_egg~0~thank you!~
-6~M~stix_parrot~0~Polly wants~more...~
-6~Q~stix_vampire~17~Sweet~
-6~M~stix_taco~0~A tasty~paradox~
-6~M~stix_normal~20~Odd &~delightful~
-6~M~stix_taco~0~A taco~is born!~
+6~L~stix_koala~0~Snoozing~is fun!~~
+6~L~stix_mouse~0~Tiny but~fierce!~~
+6~L~stix_island~21~Relaxed~~~
+6~L~stix_vampire~0~take a~bite~~
+6~L~stix_island~21~Island~brain~~
+6~L~stix_sushi~0~Wasabi~power~~
+6~L~stix_zen~98~good vibes~~~
+6~L~stix_zen~96~ommmmm~~~
+6~L~stix_egg~0~thank you!~~~
+6~L~stix_parrot~0~Polly wants~more...~~
+6~L~stix_vampire~17~Sweet~~~
+6~L~stix_taco~0~A tasty~paradox~~
+6~L~stix_normal~20~Odd &~delightful~~
+6~L~stix_taco~0~A taco~is born!~~
+6~L~stix_taco~0~spicy but~no drama~~
+6~L~stix_koala~0~Eucalyptus~& good vibes~~
+6~L~stix_shower~6~Shower~thoughts~~
+6~L~stix_island~0~relaxing~~~
+6~L~stix_dragon~0~Hatching~new ideas~~
+6~L~stix_shower~20~clean~~~
+6~L~stix_dragon~0~I am great~~~
+6~L~stix_shower~1~Wash it~all away~~
+6~L~stix_zen~98~be here~now~~

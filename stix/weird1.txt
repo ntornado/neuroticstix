@@ -1,64 +1,71 @@
-6~M~stix_sign~21~this sign is~for sale!~
-6~M~stix_cute_cat~0~this is~sewious!~
-6~Q~stix_shark~0~hangry!~
-6~M~stix_desk~0~sit/squat~desk~
-6~M~stix_zombie~0~too much~spinach~
+6~L~stix_sign~21~this sign is~for sale!~~
+6~L~stix_cute_cat~0~this is~sewious!~~
+6~L~stix_shark~0~hangry!~~~
+6~L~stix_desk~0~sit/squat~desk~~
+6~L~stix_zombie~0~too much~spinach~~
 6~R~Great~0~
-6~M~stix_unicorn_head~0~humans are~a mystery~
-6~M~stix_mask~0~I'm socially~distant~
-6~M~stix_guitar~2~the greatest~song is...~
-6~M~stix_unicorn_head~0~you think~you're real?~
-6~M~stix_schnauzer~0~here comes~trouble~
+6~L~stix_unicorn_head~0~humans are~a mystery~~
+6~L~stix_mask~0~I'm socially~distant~~
+6~L~stix_guitar~2~the greatest~song is...~~
+6~L~stix_unicorn_head~0~you think~you're real?~~
+6~L~stix_schnauzer~0~here comes~trouble~~
 6~B~stix_black_book~0~Great~Truths~~~~
 6~X~stix_black_shirt~0~I hate~shirts~~~~
-6~M~stix_oops~0~what did~I do wrong?~
-6~M~stix_people~0~I didn't~do it~
-6~M~stix_zombie~0~broccoli~day~
-6~S~stix_tornado~0~avenge me!~
-6~M~stix_dog~0~what did~you expect?~
-6~S~stix_dog~0~bark atcha~
-6~M~stix_kitty~0~kibble~substandard~
+6~L~stix_oops~0~what did~I do wrong?~~
+6~L~stix_people~0~I didn't~do it~~
+6~L~stix_zombie~0~broccoli~day~~
+6~L~stix_tornado~0~avenge me!~~~
+6~L~stix_dog~0~what did~you expect?~~
+6~L~stix_dog~0~bark atcha~~~
+6~L~stix_kitty~0~kibble~substandard~~
 6~X~stix_shirt~0~don't~dress~up~~~
-6~M~stix_alien~0~humans are~strange~
-6~M~stix_tornado~0~neurotic~tornado~
-6~M~stix_robot~0~some days~are so 10101~
-6~Q~stix_schnauzer~0~meow~
-6~M~stix_rabbit~0~productivity~rabbit~
+6~L~stix_alien~0~humans are~strange~~
+6~L~stix_tornado~0~neurotic~tornado~~
+6~L~stix_robot~0~some days~are so 10101~~
+6~L~stix_schnauzer~0~meow~~~
+6~L~stix_rabbit~0~productivity~rabbit~~
 6~B~stix_book~0~The secret~to life is~%]#]#{}%^~~~
 6~C~stix_computer~0~get off~your~device!~~~
 6~B~stix_book~0~this~is not~a book~~~
 6~X~stix_black_shirt~0~I’m the~weirdo~~~~
 6~X~stix_shirt~0~I like~shirt~~~~
-6~M~stix_rabbit~0~looking for~a roommate~
+6~L~stix_rabbit~0~looking for~a roommate~~
 6~B~stix_book~0~I'm trying~to write a~novel but...~-a memoir-~~
-6~M~stix_robot~0~I’m not~a robot~
+6~L~stix_robot~0~I’m not~a robot~~
 6~R~Complicated~0~
 6~X~stix_emote_shirt~0~I~could~fix~it~~
-6~M~stix_scientist~0~it's just~a theory~
-6~Q~stix_bubble~0~maybe~
-6~S~stix_creature~0~old school~
+6~L~stix_scientist~0~it's just~a theory~~
+6~L~stix_bubble~0~maybe~~~
+6~L~stix_creature~0~old school~~~
 6~C~stix_computer~0~what is~artificial~about me?~~~
-6~M~stix_fish~0~clowning~around~
-6~M~stix_fish~0~don't love~to swim~
-6~S~stix_pants~0~Leg day!~
-6~Q~stix_desk~0~Create!~
-6~M~stix_pants~0~pants~gone wild~
+6~L~stix_fish~0~clowning~around~~
+6~L~stix_fish~0~don't love~to swim~~
+6~L~stix_pants~0~Leg day!~~~
+6~L~stix_desk~0~Create!~~~
+6~L~stix_pants~0~pants~gone wild~~
 6~X~stix_emote_shirt~0~I~REGRET~A FEW~THINGS~~
-6~M~stix_mouse~0~Where's~the cheese?~
-6~Q~stix_cute_alien~0~bleep!~
-6~M~stix_taco~0~sassy is~my thing~
-6~M~stix_unicorn_head~0~Sparkles!~And chaos!~
-6~Q~stix_poop~0~cool~
-6~M~stix_dumpster~0~smell the~roses!~
-6~M~stix_creature~0~Wiggle~wiggle~
-6~M~stix_gas~0~a strange~message~
-6~M~stix_sushi~0~I'm not~fishy~
-6~M~stix_taco~0~Explain like~I'm a taco~
-6~M~stix_parrot~0~Polly wants~a password~
-6~M~stix_drown~0~Siri, call~a lifeguard!~
-6~S~stix_schnauzer~0~you're odd~
-6~S~stix_normal~32~Odd, huh?~
-6~M~stix_toilet~0~Flush and~forget~
-6~S~stix_banana~0~bananas!~
-6~S~stix_taco~0~Funny taco~
-6~M~stix_pants~0~Existential~pants!~
+6~L~stix_mouse~0~Where's~the cheese?~~
+6~L~stix_cute_alien~0~bleep!~~~
+6~L~stix_taco~0~sassy is~my thing~~
+6~L~stix_unicorn_head~0~Sparkles!~And chaos!~~
+6~L~stix_poop~0~cool~~~
+6~L~stix_dumpster~0~smell the~roses!~~
+6~L~stix_creature~0~Wiggle~wiggle~~
+6~L~stix_gas~0~a strange~message~~
+6~L~stix_sushi~0~I'm not~fishy~~
+6~L~stix_taco~0~Explain like~I'm a taco~~
+6~L~stix_parrot~0~Polly wants~a password~~
+6~L~stix_drown~0~Siri, call~a lifeguard!~~
+6~L~stix_schnauzer~0~you're odd~~~
+6~L~stix_normal~32~Odd, huh?~~~
+6~L~stix_toilet~0~Flush and~forget~~
+6~L~stix_banana~0~bananas!~~~
+6~L~stix_taco~0~Funny taco~~~
+6~L~stix_pants~0~Existential~pants!~~
+6~L~stix_cute_alien~0~👾%#^*👾 is my~middle name~~
+6~L~stix_dragon~0~Smoke and~pixels~~
+6~L~stix_pants~0~want belt?~~~
+6~L~stix_dragon~0~big sneeze~~~
+6~L~stix_rabbit~0~Is this~your card?~~
+6~L~stix_cute_alien~0~What's life~even about~~
+6~X~stix_shirt~0~Awkward~and~proud~~~
