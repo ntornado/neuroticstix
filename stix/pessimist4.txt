@@ -64,3 +64,7 @@
 6~L~stix_dragon~0~Sigh~~~
 6~X~stix_shirt~0~achy~all~over~~~
 6~L~stix_poop~0~I know your~secrets~~
+6~L~stix_shower~17~Waterworks~symphony~~
+6~L~stix_creature~0~Not judging~your mood~~
+6~L~stix_sad~18~Meh~~~
+6~X~stix_black_shirt~0~Life is~a long~wait~~~

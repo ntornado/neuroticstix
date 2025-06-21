@@ -69,3 +69,4 @@
 6~X~stix_black_shirt~0~Weird~and~great~~~
 6~L~stix_taco~0~extra full~~~
 6~L~stix_robot~0~Log in to~my feelings~~
+6~C~stix_computer~0~Loading~thoughts~~~~

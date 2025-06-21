@@ -64,3 +64,5 @@
 6~L~stix_rabbit~0~Is this~your card?~~
 6~L~stix_heart~22~awesome~~~
 6~C~stix_computer~0~qwerty is~my middle~name~~~
+6~L~stix_cute_alien~0~Beam~me up!~~
+6~L~stix_kitty~0~Nap is~my agenda~~

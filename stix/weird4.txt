@@ -68,3 +68,6 @@
 6~L~stix_dragon~0~Am I real?~~~
 6~L~stix_dragon~0~🔥 🔥 🔥~~~
 6~C~stix_computer~0~qwerty is~my middle~name~~~
+6~L~stix_cute_alien~0~Beam~me up!~~
+6~B~stix_book~0~Silly~Pages~~~~
+6~C~stix_computer~0~beyond~the~1010101~~~

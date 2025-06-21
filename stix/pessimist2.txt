@@ -65,3 +65,6 @@
 6~L~stix_schnauzer~0~Judging~you softly~~
 6~X~stix_shirt~0~out of~ideas~~~~
 6~X~stix_emote_shirt~0~future~scares~me~~~
+6~L~stix_heart~49~Love is~indecisive~~
+6~L~stix_alien~0~lonely~~~
+6~L~stix_oops~4~I messed~up for real~~

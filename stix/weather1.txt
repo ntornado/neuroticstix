@@ -64,3 +64,4 @@
 6~L~stix_kitty~0~Too cute~to handle~~
 6~X~stix_black_shirt~0~Coffee~!!!~~~~
 6~X~stix_shirt~0~Awkward~and~proud~~~
+6~L~stix_koala~0~don't mess~with me~~

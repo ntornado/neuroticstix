@@ -65,3 +65,6 @@
 6~L~stix_dragon~0~Burn it~all down~~
 6~B~stix_book~0~Laughing~At Bad~Choices~~~
 6~X~stix_shirt~0~I can't~decide~meh~~~
+6~C~stix_computer~0~Bytes~of~regret~~~
+6~L~stix_robot~0~optimism~fail~~
+6~L~stix_banana~0~Peel me off~the couch~~

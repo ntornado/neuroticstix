@@ -64,3 +64,6 @@
 6~L~stix_shower~34~Hot water,~cold world~~
 6~L~stix_oops~17~my bad~~~
 6~L~stix_normal~50~Slightly~askew~~
+6~L~stix_cute_alien~0~Zoggy woes~~~
+6~L~stix_desk~0~Email~tsunami~~
+6~L~stix_normal~96~Sleepy~mode on~~

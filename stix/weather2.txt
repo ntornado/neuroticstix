@@ -64,3 +64,4 @@
 6~X~stix_black_shirt~0~Weird~and~great~~~
 6~C~stix_computer~0~Data not~found...~just vibes~~~
 6~L~stix_island~22~beach hair~don't care~~
+6~L~stix_scientist~0~Eureka...~maybe~~

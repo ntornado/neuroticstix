@@ -69,3 +69,5 @@
 6~L~stix_rabbit~0~Is this~your card?~~
 6~L~stix_cute_alien~0~What's life~even about~~
 6~X~stix_shirt~0~Awkward~and~proud~~~
+6~L~stix_scientist~0~Eureka...~maybe~~
+6~L~stix_koala~0~don't mess~with me~~

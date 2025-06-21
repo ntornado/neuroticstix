@@ -69,3 +69,5 @@
 6~L~stix_cute_alien~0~Trust me~I'm normal~~
 6~C~stix_computer~0~Data not~found...~just vibes~~~
 6~L~stix_pants~0~Am I on~or off~~
+6~L~stix_sign~48~I'm shy~~~
+6~L~stix_kitty~0~Nap is~my agenda~~
