@@ -65,3 +65,7 @@
 6~X~stix_black_shirt~0~Coffee~!!!~~~~
 6~X~stix_shirt~0~Awkward~and~proud~~~
 6~L~stix_koala~0~don't mess~with me~~
+6~L~stix_cute_alien~0~Trust me~I'm normal~~
+6~L~stix_normal~49~Whoosh~happens~~
+6~B~stix_emote_book~0~Weather~Vibes~~~~
+6~X~stix_black_shirt~0~Blah~Blah~Blah~~~

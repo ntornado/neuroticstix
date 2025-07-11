@@ -67,4 +67,6 @@
 6~L~stix_zen~97~monkey~mind~~
 6~L~stix_kitty~0~Too cute~to handle~~
 6~X~stix_emote_shirt~0~I might~dance~~~~
-6~L~stix_shower~20~Aquatic~brilliance~~
+6~L~stix_bed~0~Dream on~~~
+6~L~stix_cute_alien~0~too human~~~
+6~L~stix_kitty~0~awkward~but cute~~

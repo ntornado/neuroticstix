@@ -66,3 +66,6 @@
 6~C~stix_computer~0~qwerty is~my middle~name~~~
 6~L~stix_cute_alien~0~Beam~me up!~~
 6~L~stix_kitty~0~Nap is~my agenda~~
+6~L~stix_bed~0~Dream on~~~
+6~L~stix_earth~0~Rooted~and ready~~
+6~L~stix_scientist~0~Equations~gone rogue~~

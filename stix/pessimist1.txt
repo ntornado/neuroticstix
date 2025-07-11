@@ -68,3 +68,6 @@
 6~C~stix_computer~0~Bytes~of~regret~~~
 6~L~stix_robot~0~optimism~fail~~
 6~L~stix_banana~0~Peel me off~the couch~~
+6~X~stix_shirt~0~Awk~ward~~~~
+6~L~stix_scientist~0~Equations~gone rogue~~
+6~L~stix_cute_cat~0~Meh, okay~~~

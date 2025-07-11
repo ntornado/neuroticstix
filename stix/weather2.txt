@@ -65,3 +65,7 @@
 6~C~stix_computer~0~Data not~found...~just vibes~~~
 6~L~stix_island~22~beach hair~don't care~~
 6~L~stix_scientist~0~Eureka...~maybe~~
+6~L~stix_shower~17~Rinse~repeat~~
+6~L~stix_earth~0~weather~happens~~
+6~C~stix_computer~0~just~look~up!~~~
+6~B~stix_book~0~a profound~sense~of meh~~~

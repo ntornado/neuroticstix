@@ -66,3 +66,6 @@
 6~L~stix_kitty~0~I guess~it depends~~
 6~L~stix_alien~0~Join us,~mate!~~
 6~B~stix_book~0~Silly~Pages~~~~
+6~X~stix_emote_shirt~0~Wear~what?~~~~
+6~B~stix_scroll~0~Plot~twist!~~~~
+6~L~stix_cute_cat~0~Meh, okay~~~

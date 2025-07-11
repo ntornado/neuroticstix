@@ -66,3 +66,7 @@
 6~L~stix_shower~6~go with~the flow~~
 6~L~stix_cute_alien~0~curious~creatures~~
 6~L~stix_heart~22~awesome~~~
+6~L~stix_shower~20~Aquatic~brilliance~~
+6~L~stix_earth~0~Rooted~and ready~~
+6~L~stix_shark~0~Swimming~in euphoria~~
+6~L~stix_sign~48~Welcome!~~~
