@@ -72,4 +72,3 @@
 6~L~stix_scientist~0~Eureka...~maybe~~
 6~L~stix_koala~0~don't mess~with me~~
 6~X~stix_emote_shirt~0~Wear~what?~~~~
-6~X~stix_shirt~0~Awk~ward~~~~
