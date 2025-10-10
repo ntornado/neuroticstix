@@ -69,3 +69,6 @@
 6~L~stix_alien~0~Join us,~mate!~~
 6~L~stix_unicorn_head~0~Every cloud~has glitter~~
 6~L~stix_dragon~0~Flames of~adventure~~
+6~L~stix_plane~176~Flying~solo~~
+6~L~stix_couch~4~Peak form~~~
+6~L~stix_pizza~21~why not?~~~

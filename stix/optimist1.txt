@@ -69,3 +69,6 @@
 6~L~stix_shower~1~Wash it~all away~~
 6~L~stix_zen~98~be here~now~~
 6~L~stix_earth~0~planetary~vibes~~
+6~L~stix_pizza~0~Life is~cheesy~~
+6~L~stix_plane~132~Up in~the air~~
+6~L~stix_couch~20~Professional~relaxer~~

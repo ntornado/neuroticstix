@@ -69,3 +69,5 @@
 6~L~stix_normal~49~Whoosh~happens~~
 6~B~stix_emote_book~0~Weather~Vibes~~~~
 6~X~stix_black_shirt~0~Blah~Blah~Blah~~~
+6~L~stix_pizza~0~Crusty~vibes~~
+6~L~stix_pizza~0~weather~is weird~~

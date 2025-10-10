@@ -72,3 +72,4 @@
 6~C~stix_computer~0~Loading~thoughts~~~~
 6~L~stix_normal~49~Whoosh~happens~~
 6~B~stix_scroll~0~Plot~twist!~~~~
+6~L~stix_plane~4~airplane~mode~~

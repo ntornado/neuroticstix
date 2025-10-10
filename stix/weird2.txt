@@ -72,3 +72,4 @@
 6~L~stix_sign~48~I'm shy~~~
 6~L~stix_kitty~0~Nap is~my agenda~~
 6~X~stix_emote_shirt~0~I~really~gotta~pee~~
+6~L~stix_plane~5~Fly high~~~

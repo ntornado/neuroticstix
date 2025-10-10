@@ -70,3 +70,4 @@
 6~X~stix_black_shirt~0~Life is~a long~wait~~~
 6~X~stix_black_shirt~0~Blah~Blah~Blah~~~
 6~B~stix_book~0~a profound~sense~of meh~~~
+6~L~stix_pizza~0~The void~stares back~~

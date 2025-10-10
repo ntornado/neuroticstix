@@ -69,3 +69,5 @@
 6~L~stix_bed~0~Dream on~~~
 6~L~stix_cute_alien~0~too human~~~
 6~L~stix_kitty~0~awkward~but cute~~
+6~L~stix_plane~50~Going~places~~
+6~L~stix_couch~178~Living my~best life~~
