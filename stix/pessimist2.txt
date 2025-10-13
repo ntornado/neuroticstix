@@ -71,3 +71,4 @@
 6~L~stix_poop~0~gold star!~~~
 6~L~stix_sign~33~suspicious~~~
 6~L~stix_pizza~0~crusty all~the way down~~
+6~L~stix_fish~128~So~disappoint~~
