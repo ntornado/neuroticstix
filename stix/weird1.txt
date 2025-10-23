@@ -35,7 +35,6 @@
 6~R~Complicated~0~
 6~X~stix_emote_shirt~0~I~could~fix~it~~
 6~L~stix_scientist~0~it's just~a theory~~
-6~L~stix_bubble~0~maybe~~~
 6~L~stix_creature~0~old school~~~
 6~C~stix_computer~0~what is~artificial~about me?~~~
 6~L~stix_fish~0~clowning~around~~

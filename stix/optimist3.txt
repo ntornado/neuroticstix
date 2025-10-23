@@ -33,7 +33,6 @@
 6~L~stix_unicorn_head~0~dream it~~~
 6~L~stix_cars~0~what's your~fav podcast?~~
 6~L~stix_scientist~0~the missing~ingredient~~
-6~L~stix_bubble~0~yes~~~
 6~L~stix_banana~0~falling down~is OK~~
 6~L~stix_earth~0~❤️❤️❤️~~~
 6~L~stix_creature~0~I am~beautiful~~

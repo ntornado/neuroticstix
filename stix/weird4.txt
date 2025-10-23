@@ -15,7 +15,6 @@
 6~L~stix_complicated~0~you want the~whole story?~~
 6~L~stix_unicorn_head~0~magic only~goes so far…~~
 6~L~stix_robot~0~I'm in a~robo union~~
-6~L~stix_bubble~0~just let me~finish my …~~
 6~L~stix_schnauzer~0~humans need~a chill pill~~
 6~C~stix_computer~0~i don't~believe~in AI...~~~
 6~X~stix_black_shirt~0~ask me~about~my foot~~~
@@ -37,7 +36,7 @@
 6~L~stix_scientist~0~and u think~I'M mad!...~~
 6~L~stix_gas~0~small bang~~~
 6~L~stix_banana~0~don't fall~~~
-6~L~stix_bubble~0~🤪🤪🤪~~~
+6~L~stix_koala~0~🤪🤪🤪~~~
 6~L~stix_shark~0~check the~facts~~
 6~L~stix_robot~0~Beep Boop.~Happy now?~~
 6~X~stix_shirt~0~Weird~is good~~~~

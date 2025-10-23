@@ -34,7 +34,6 @@
 6~L~stix_creature~0~humans~scare me~~
 6~B~stix_emote_book~0~-ish~~a memoir~~~
 6~L~stix_scientist~0~I have trust~issues...~~
-6~L~stix_bubble~0~no~~~
 6~L~stix_earth~0~sooo hot!~~~
 6~L~stix_normal~16~why now?~~~
 6~L~stix_banana~0~mushy day~~~
