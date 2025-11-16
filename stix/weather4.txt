@@ -71,3 +71,4 @@
 6~L~stix_scientist~0~Equations~gone rogue~~
 6~L~stix_pizza~0~Nobody~gets me~~
 6~L~stix_couch~0~weird~~~
+6~L~stix_couch~146~weather~achieved~~

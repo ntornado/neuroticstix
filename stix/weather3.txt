@@ -71,3 +71,5 @@
 6~L~stix_cute_cat~0~Meh, okay~~~
 6~L~stix_couch~4~Peak form~~~
 6~L~stix_pizza~21~why not?~~~
+6~L~stix_rabbit~0~hat~weather~~
+6~L~stix_scientist~0~conjuring~weather~~

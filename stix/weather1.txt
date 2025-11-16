@@ -71,3 +71,5 @@
 6~X~stix_black_shirt~0~Blah~Blah~Blah~~~
 6~L~stix_pizza~0~Crusty~vibes~~
 6~L~stix_pizza~0~weather~is weird~~
+6~L~stix_shark~0~fishy~weather~~
+6~L~stix_couch~0~smell some~weather~~
