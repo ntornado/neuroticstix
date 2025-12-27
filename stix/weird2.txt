@@ -73,3 +73,4 @@
 6~L~stix_kitty~0~Nap is~my agenda~~
 6~X~stix_emote_shirt~0~I~really~gotta~pee~~
 6~L~stix_plane~5~Fly high~~~
+6~L~stix_frog~0~Hoppy town~~~

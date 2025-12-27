@@ -71,3 +71,5 @@
 6~L~stix_plane~50~Going~places~~
 6~L~stix_couch~178~Living my~best life~~
 6~L~stix_pizza~0~Focus!~~~
+6~L~stix_basketball~6~On Top~No Stop~~
+6~L~stix_frog~0~Hop to it~~~

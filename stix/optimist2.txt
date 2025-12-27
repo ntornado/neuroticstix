@@ -72,3 +72,4 @@
 6~L~stix_sign~48~Welcome!~~~
 6~L~stix_pizza~0~Crusty~vibes~~
 6~L~stix_plane~6~Winging it~~~
+6~L~stix_basketball~6~slam dunk~~~
