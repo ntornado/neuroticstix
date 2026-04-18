@@ -74,3 +74,4 @@
 6~B~stix_scroll~0~Plot~twist!~~~~
 6~L~stix_plane~4~airplane~mode~~
 6~L~stix_frog~0~Just~chillin~~
+6~L~stix_tramway~128~living on~the edge~~

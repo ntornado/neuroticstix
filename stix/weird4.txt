@@ -73,3 +73,4 @@
 6~L~stix_pizza~128~I've seen~things~~
 6~L~stix_couch~4~I'm an~athlete~~
 6~L~stix_basketball~22~Bounce~Like Crazy~~
+6~L~stix_couch~48~My skill:~napping~~

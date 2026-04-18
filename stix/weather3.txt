@@ -73,3 +73,4 @@
 6~L~stix_rabbit~0~hat~weather~~
 6~L~stix_scientist~0~conjuring~weather~~
 6~L~stix_koala~146~weather~achieved~~
+6~L~stix_tramway~128~life has ups~and downs~~
