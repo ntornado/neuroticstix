@@ -39,7 +39,6 @@
 6~O~stix_stop~0~stop?~~~
 6~L~stix_pants~0~pants~party!~~
 6~R~WeatherPartlyCloudy~0~
-6~R~WeatherSnowy~0~
 6~L~stix_pants~0~Wear me!~~~
 6~B~stix_emote_book~0~Drama off~the stage~~~~
 6~L~stix_normal~5~Weirdness~~~
