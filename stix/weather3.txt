@@ -74,3 +74,5 @@
 6~L~stix_scientist~0~conjuring~weather~~
 6~L~stix_koala~146~weather~achieved~~
 6~L~stix_tramway~128~life has ups~and downs~~
+6~X~stix_black_shirt~0~TOO~HAPPY~~~~
+6~L~stix_banana~0~Peel vibes~~~

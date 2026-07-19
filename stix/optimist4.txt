@@ -75,3 +75,4 @@
 6~L~stix_frog~0~Hop to it~~~
 6~L~stix_tramway~0~Going up!~~~
 6~L~stix_dragon~0~My skills~are fire~~
+6~L~stix_robot~0~I rebooted~my bad vibes~~

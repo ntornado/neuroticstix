@@ -74,3 +74,5 @@
 6~L~stix_fish~128~So~disappoint~~
 6~L~stix_basketball~16~Missed~again~~
 6~L~stix_tramway~128~suspended~judgment~~
+6~L~stix_poop~0~feeling~crappy~~
+6~L~stix_alien~0~not easy~being green~~

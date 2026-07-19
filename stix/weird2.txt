@@ -75,3 +75,5 @@
 6~L~stix_plane~5~Fly high~~~
 6~L~stix_frog~0~Hoppy town~~~
 6~L~stix_tramway~0~high life~~~
+6~L~stix_plane~17~lost my~pants~~
+6~L~stix_banana~128~it's me who~slips on you~~

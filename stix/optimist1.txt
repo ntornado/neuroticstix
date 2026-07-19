@@ -74,3 +74,5 @@
 6~L~stix_couch~20~Professional~relaxer~~
 6~L~stix_frog~0~Make the~change~~
 6~L~stix_tramway~0~tram-~tastic!~~
+6~L~stix_plane~5~flying~~~
+6~L~stix_couch~178~nailed it~~~

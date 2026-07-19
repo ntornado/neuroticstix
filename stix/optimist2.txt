@@ -74,3 +74,5 @@
 6~L~stix_plane~6~Winging it~~~
 6~L~stix_basketball~6~slam dunk~~~
 6~L~stix_tramway~0~peak~performance~~
+6~L~stix_dragon~128~Too hot~to handle~~
+6~L~stix_sun~0~maximum~sparkles~~

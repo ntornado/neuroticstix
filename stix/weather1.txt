@@ -74,3 +74,6 @@
 6~L~stix_shark~0~fishy~weather~~
 6~L~stix_couch~0~smell some~weather~~
 6~L~stix_tramway~0~weather~~~
+6~L~stix_plane~5~flying~~~
+6~L~stix_rabbit~0~chaotic~magic~~
+6~L~stix_robot~0~I rebooted~my bad vibes~~

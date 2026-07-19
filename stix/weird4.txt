@@ -74,3 +74,5 @@
 6~L~stix_couch~4~I'm an~athlete~~
 6~L~stix_basketball~22~Bounce~Like Crazy~~
 6~L~stix_couch~48~My skill:~napping~~
+6~L~stix_rabbit~0~chaotic~magic~~
+6~L~stix_taco~0~Spicy brain~activate~~
